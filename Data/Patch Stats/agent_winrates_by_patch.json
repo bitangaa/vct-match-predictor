@@ -1,0 +1,8994 @@
+{
+  "11.0": {
+    "fade": {
+      "total_games": 598,
+      "wins": 307,
+      "winrate": 51.34
+    },
+    "neon": {
+      "total_games": 452,
+      "wins": 210,
+      "winrate": 46.46
+    },
+    "sage": {
+      "total_games": 113,
+      "wins": 66,
+      "winrate": 58.41
+    },
+    "omen": {
+      "total_games": 1191,
+      "wins": 590,
+      "winrate": 49.54
+    },
+    "viper": {
+      "total_games": 808,
+      "wins": 394,
+      "winrate": 48.76
+    },
+    "sova": {
+      "total_games": 840,
+      "wins": 418,
+      "winrate": 49.76
+    },
+    "chamber": {
+      "total_games": 110,
+      "wins": 64,
+      "winrate": 58.18
+    },
+    "yoru": {
+      "total_games": 518,
+      "wins": 277,
+      "winrate": 53.47
+    },
+    "vyse": {
+      "total_games": 311,
+      "wins": 176,
+      "winrate": 56.59
+    },
+    "jett": {
+      "total_games": 310,
+      "wins": 153,
+      "winrate": 49.35
+    },
+    "cypher": {
+      "total_games": 474,
+      "wins": 233,
+      "winrate": 49.16
+    },
+    "kayo": {
+      "total_games": 215,
+      "wins": 99,
+      "winrate": 46.05
+    },
+    "waylay": {
+      "total_games": 74,
+      "wins": 42,
+      "winrate": 56.76
+    },
+    "breach": {
+      "total_games": 151,
+      "wins": 64,
+      "winrate": 42.38
+    },
+    "killjoy": {
+      "total_games": 314,
+      "wins": 152,
+      "winrate": 48.41
+    },
+    "deadlock": {
+      "total_games": 165,
+      "wins": 67,
+      "winrate": 40.61
+    },
+    "skye": {
+      "total_games": 60,
+      "wins": 30,
+      "winrate": 50.0
+    },
+    "raze": {
+      "total_games": 420,
+      "wins": 220,
+      "winrate": 52.38
+    },
+    "brimstone": {
+      "total_games": 126,
+      "wins": 62,
+      "winrate": 49.21
+    },
+    "iso": {
+      "total_games": 76,
+      "wins": 41,
+      "winrate": 53.95
+    },
+    "harbor": {
+      "total_games": 42,
+      "wins": 23,
+      "winrate": 54.76
+    },
+    "gekko": {
+      "total_games": 98,
+      "wins": 42,
+      "winrate": 42.86
+    },
+    "reyna": {
+      "total_games": 2,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "tejo": {
+      "total_games": 43,
+      "wins": 25,
+      "winrate": 58.14
+    },
+    "clove": {
+      "total_games": 12,
+      "wins": 4,
+      "winrate": 33.33
+    },
+    "astra": {
+      "total_games": 88,
+      "wins": 45,
+      "winrate": 51.14
+    },
+    "phoenix": {
+      "total_games": 19,
+      "wins": 11,
+      "winrate": 57.89
+    }
+  },
+  "10.07": {
+    "sova": {
+      "total_games": 264,
+      "wins": 126,
+      "winrate": 47.73
+    },
+    "killjoy": {
+      "total_games": 210,
+      "wins": 104,
+      "winrate": 49.52
+    },
+    "viper": {
+      "total_games": 322,
+      "wins": 156,
+      "winrate": 48.45
+    },
+    "harbor": {
+      "total_games": 62,
+      "wins": 32,
+      "winrate": 51.61
+    },
+    "jett": {
+      "total_games": 266,
+      "wins": 124,
+      "winrate": 46.62
+    },
+    "omen": {
+      "total_games": 448,
+      "wins": 228,
+      "winrate": 50.89
+    },
+    "neon": {
+      "total_games": 150,
+      "wins": 78,
+      "winrate": 52.0
+    },
+    "tejo": {
+      "total_games": 424,
+      "wins": 212,
+      "winrate": 50.0
+    },
+    "breach": {
+      "total_games": 264,
+      "wins": 124,
+      "winrate": 46.97
+    },
+    "yoru": {
+      "total_games": 264,
+      "wins": 130,
+      "winrate": 49.24
+    },
+    "iso": {
+      "total_games": 42,
+      "wins": 16,
+      "winrate": 38.1
+    },
+    "cypher": {
+      "total_games": 238,
+      "wins": 114,
+      "winrate": 47.9
+    },
+    "gekko": {
+      "total_games": 32,
+      "wins": 16,
+      "winrate": 50.0
+    },
+    "kayo": {
+      "total_games": 150,
+      "wins": 74,
+      "winrate": 49.33
+    },
+    "vyse": {
+      "total_games": 164,
+      "wins": 88,
+      "winrate": 53.66
+    },
+    "raze": {
+      "total_games": 110,
+      "wins": 66,
+      "winrate": 60.0
+    },
+    "astra": {
+      "total_games": 120,
+      "wins": 62,
+      "winrate": 51.67
+    },
+    "sage": {
+      "total_games": 10,
+      "wins": 6,
+      "winrate": 60.0
+    },
+    "skye": {
+      "total_games": 12,
+      "wins": 8,
+      "winrate": 66.67
+    },
+    "fade": {
+      "total_games": 128,
+      "wins": 74,
+      "winrate": 57.81
+    },
+    "chamber": {
+      "total_games": 10,
+      "wins": 6,
+      "winrate": 60.0
+    },
+    "brimstone": {
+      "total_games": 64,
+      "wins": 32,
+      "winrate": 50.0
+    },
+    "reyna": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "deadlock": {
+      "total_games": 40,
+      "wins": 20,
+      "winrate": 50.0
+    },
+    "clove": {
+      "total_games": 8,
+      "wins": 6,
+      "winrate": 75.0
+    },
+    "waylay": {
+      "total_games": 20,
+      "wins": 6,
+      "winrate": 30.0
+    },
+    "phoenix": {
+      "total_games": 14,
+      "wins": 10,
+      "winrate": 71.43
+    }
+  },
+  "10.06": {
+    "omen": {
+      "total_games": 206,
+      "wins": 98,
+      "winrate": 47.57
+    },
+    "neon": {
+      "total_games": 68,
+      "wins": 40,
+      "winrate": 58.82
+    },
+    "breach": {
+      "total_games": 118,
+      "wins": 52,
+      "winrate": 44.07
+    },
+    "clove": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "fade": {
+      "total_games": 68,
+      "wins": 36,
+      "winrate": 52.94
+    },
+    "tejo": {
+      "total_games": 194,
+      "wins": 98,
+      "winrate": 50.52
+    },
+    "cypher": {
+      "total_games": 118,
+      "wins": 56,
+      "winrate": 47.46
+    },
+    "kayo": {
+      "total_games": 48,
+      "wins": 28,
+      "winrate": 58.33
+    },
+    "astra": {
+      "total_games": 82,
+      "wins": 46,
+      "winrate": 56.1
+    },
+    "vyse": {
+      "total_games": 102,
+      "wins": 48,
+      "winrate": 47.06
+    },
+    "jett": {
+      "total_games": 96,
+      "wins": 48,
+      "winrate": 50.0
+    },
+    "yoru": {
+      "total_games": 136,
+      "wins": 68,
+      "winrate": 50.0
+    },
+    "sova": {
+      "total_games": 122,
+      "wins": 56,
+      "winrate": 45.9
+    },
+    "waylay": {
+      "total_games": 22,
+      "wins": 14,
+      "winrate": 63.64
+    },
+    "killjoy": {
+      "total_games": 60,
+      "wins": 36,
+      "winrate": 60.0
+    },
+    "viper": {
+      "total_games": 104,
+      "wins": 54,
+      "winrate": 51.92
+    },
+    "gekko": {
+      "total_games": 4,
+      "wins": 4,
+      "winrate": 100.0
+    },
+    "iso": {
+      "total_games": 32,
+      "wins": 16,
+      "winrate": 50.0
+    },
+    "reyna": {
+      "total_games": 6,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "sage": {
+      "total_games": 2,
+      "wins": 2,
+      "winrate": 100.0
+    },
+    "raze": {
+      "total_games": 50,
+      "wins": 24,
+      "winrate": 48.0
+    },
+    "chamber": {
+      "total_games": 18,
+      "wins": 6,
+      "winrate": 33.33
+    },
+    "harbor": {
+      "total_games": 12,
+      "wins": 8,
+      "winrate": 66.67
+    },
+    "deadlock": {
+      "total_games": 18,
+      "wins": 6,
+      "winrate": 33.33
+    },
+    "brimstone": {
+      "total_games": 20,
+      "wins": 10,
+      "winrate": 50.0
+    },
+    "phoenix": {
+      "total_games": 8,
+      "wins": 4,
+      "winrate": 50.0
+    },
+    "skye": {
+      "total_games": 2,
+      "wins": 0,
+      "winrate": 0.0
+    }
+  },
+  "10.05": {
+    "omen": {
+      "total_games": 216,
+      "wins": 112,
+      "winrate": 51.85
+    },
+    "vyse": {
+      "total_games": 100,
+      "wins": 54,
+      "winrate": 54.0
+    },
+    "tejo": {
+      "total_games": 212,
+      "wins": 102,
+      "winrate": 48.11
+    },
+    "breach": {
+      "total_games": 158,
+      "wins": 78,
+      "winrate": 49.37
+    },
+    "neon": {
+      "total_games": 70,
+      "wins": 42,
+      "winrate": 60.0
+    },
+    "fade": {
+      "total_games": 74,
+      "wins": 34,
+      "winrate": 45.95
+    },
+    "clove": {
+      "total_games": 8,
+      "wins": 4,
+      "winrate": 50.0
+    },
+    "sova": {
+      "total_games": 106,
+      "wins": 62,
+      "winrate": 58.49
+    },
+    "yoru": {
+      "total_games": 148,
+      "wins": 76,
+      "winrate": 51.35
+    },
+    "jett": {
+      "total_games": 48,
+      "wins": 26,
+      "winrate": 54.17
+    },
+    "astra": {
+      "total_games": 78,
+      "wins": 32,
+      "winrate": 41.03
+    },
+    "killjoy": {
+      "total_games": 46,
+      "wins": 24,
+      "winrate": 52.17
+    },
+    "kayo": {
+      "total_games": 48,
+      "wins": 20,
+      "winrate": 41.67
+    },
+    "cypher": {
+      "total_games": 142,
+      "wins": 70,
+      "winrate": 49.3
+    },
+    "raze": {
+      "total_games": 66,
+      "wins": 24,
+      "winrate": 36.36
+    },
+    "brimstone": {
+      "total_games": 38,
+      "wins": 20,
+      "winrate": 52.63
+    },
+    "viper": {
+      "total_games": 118,
+      "wins": 56,
+      "winrate": 47.46
+    },
+    "waylay": {
+      "total_games": 38,
+      "wins": 18,
+      "winrate": 47.37
+    },
+    "chamber": {
+      "total_games": 16,
+      "wins": 8,
+      "winrate": 50.0
+    },
+    "iso": {
+      "total_games": 36,
+      "wins": 18,
+      "winrate": 50.0
+    },
+    "sage": {
+      "total_games": 2,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "deadlock": {
+      "total_games": 16,
+      "wins": 8,
+      "winrate": 50.0
+    },
+    "harbor": {
+      "total_games": 8,
+      "wins": 6,
+      "winrate": 75.0
+    },
+    "phoenix": {
+      "total_games": 2,
+      "wins": 2,
+      "winrate": 100.0
+    },
+    "gekko": {
+      "total_games": 2,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "reyna": {
+      "total_games": 4,
+      "wins": 4,
+      "winrate": 100.0
+    }
+  },
+  "10.0": {
+    "cypher": {
+      "total_games": 110,
+      "wins": 54,
+      "winrate": 49.09
+    },
+    "omen": {
+      "total_games": 150,
+      "wins": 70,
+      "winrate": 46.67
+    },
+    "sova": {
+      "total_games": 134,
+      "wins": 70,
+      "winrate": 52.24
+    },
+    "jett": {
+      "total_games": 106,
+      "wins": 48,
+      "winrate": 45.28
+    },
+    "kayo": {
+      "total_games": 76,
+      "wins": 34,
+      "winrate": 44.74
+    },
+    "astra": {
+      "total_games": 142,
+      "wins": 74,
+      "winrate": 52.11
+    },
+    "vyse": {
+      "total_games": 68,
+      "wins": 34,
+      "winrate": 50.0
+    },
+    "brimstone": {
+      "total_games": 66,
+      "wins": 32,
+      "winrate": 48.48
+    },
+    "raze": {
+      "total_games": 130,
+      "wins": 66,
+      "winrate": 50.77
+    },
+    "breach": {
+      "total_games": 132,
+      "wins": 64,
+      "winrate": 48.48
+    },
+    "sage": {
+      "total_games": 16,
+      "wins": 4,
+      "winrate": 25.0
+    },
+    "killjoy": {
+      "total_games": 80,
+      "wins": 42,
+      "winrate": 52.5
+    },
+    "tejo": {
+      "total_games": 90,
+      "wins": 48,
+      "winrate": 53.33
+    },
+    "skye": {
+      "total_games": 26,
+      "wins": 12,
+      "winrate": 46.15
+    },
+    "viper": {
+      "total_games": 58,
+      "wins": 28,
+      "winrate": 48.28
+    },
+    "yoru": {
+      "total_games": 74,
+      "wins": 38,
+      "winrate": 51.35
+    },
+    "clove": {
+      "total_games": 12,
+      "wins": 10,
+      "winrate": 83.33
+    },
+    "fade": {
+      "total_games": 78,
+      "wins": 38,
+      "winrate": 48.72
+    },
+    "neon": {
+      "total_games": 38,
+      "wins": 24,
+      "winrate": 63.16
+    },
+    "gekko": {
+      "total_games": 28,
+      "wins": 14,
+      "winrate": 50.0
+    },
+    "deadlock": {
+      "total_games": 28,
+      "wins": 18,
+      "winrate": 64.29
+    },
+    "chamber": {
+      "total_games": 16,
+      "wins": 8,
+      "winrate": 50.0
+    },
+    "phoenix": {
+      "total_games": 6,
+      "wins": 4,
+      "winrate": 66.67
+    },
+    "iso": {
+      "total_games": 6,
+      "wins": 4,
+      "winrate": 66.67
+    },
+    "harbor": {
+      "total_games": 10,
+      "wins": 2,
+      "winrate": 20.0
+    }
+  },
+  "9.10": {
+    "fade": {
+      "total_games": 31,
+      "wins": 19,
+      "winrate": 61.29
+    },
+    "viper": {
+      "total_games": 50,
+      "wins": 26,
+      "winrate": 52.0
+    },
+    "raze": {
+      "total_games": 71,
+      "wins": 37,
+      "winrate": 52.11
+    },
+    "brimstone": {
+      "total_games": 39,
+      "wins": 21,
+      "winrate": 53.85
+    },
+    "gekko": {
+      "total_games": 23,
+      "wins": 14,
+      "winrate": 60.87
+    },
+    "deadlock": {
+      "total_games": 22,
+      "wins": 6,
+      "winrate": 27.27
+    },
+    "skye": {
+      "total_games": 48,
+      "wins": 20,
+      "winrate": 41.67
+    },
+    "cypher": {
+      "total_games": 162,
+      "wins": 89,
+      "winrate": 54.94
+    },
+    "jett": {
+      "total_games": 130,
+      "wins": 67,
+      "winrate": 51.54
+    },
+    "sova": {
+      "total_games": 181,
+      "wins": 92,
+      "winrate": 50.83
+    },
+    "kayo": {
+      "total_games": 84,
+      "wins": 44,
+      "winrate": 52.38
+    },
+    "astra": {
+      "total_games": 107,
+      "wins": 52,
+      "winrate": 48.6
+    },
+    "omen": {
+      "total_games": 150,
+      "wins": 73,
+      "winrate": 48.67
+    },
+    "breach": {
+      "total_games": 68,
+      "wins": 35,
+      "winrate": 51.47
+    },
+    "killjoy": {
+      "total_games": 58,
+      "wins": 23,
+      "winrate": 39.66
+    },
+    "yoru": {
+      "total_games": 32,
+      "wins": 14,
+      "winrate": 43.75
+    },
+    "vyse": {
+      "total_games": 21,
+      "wins": 10,
+      "winrate": 47.62
+    },
+    "iso": {
+      "total_games": 15,
+      "wins": 8,
+      "winrate": 53.33
+    },
+    "clove": {
+      "total_games": 14,
+      "wins": 6,
+      "winrate": 42.86
+    },
+    "phoenix": {
+      "total_games": 11,
+      "wins": 7,
+      "winrate": 63.64
+    },
+    "reyna": {
+      "total_games": 4,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "harbor": {
+      "total_games": 5,
+      "wins": 3,
+      "winrate": 60.0
+    },
+    "neon": {
+      "total_games": 60,
+      "wins": 25,
+      "winrate": 41.67
+    },
+    "sage": {
+      "total_games": 2,
+      "wins": 2,
+      "winrate": 100.0
+    },
+    "chamber": {
+      "total_games": 2,
+      "wins": 2,
+      "winrate": 100.0
+    }
+  },
+  "9.0": {
+    "neon": {
+      "total_games": 159,
+      "wins": 77,
+      "winrate": 48.43
+    },
+    "sova": {
+      "total_games": 323,
+      "wins": 164,
+      "winrate": 50.77
+    },
+    "omen": {
+      "total_games": 496,
+      "wins": 243,
+      "winrate": 48.99
+    },
+    "cypher": {
+      "total_games": 314,
+      "wins": 148,
+      "winrate": 47.13
+    },
+    "breach": {
+      "total_games": 197,
+      "wins": 97,
+      "winrate": 49.24
+    },
+    "jett": {
+      "total_games": 248,
+      "wins": 124,
+      "winrate": 50.0
+    },
+    "kayo": {
+      "total_games": 207,
+      "wins": 97,
+      "winrate": 46.86
+    },
+    "viper": {
+      "total_games": 233,
+      "wins": 132,
+      "winrate": 56.65
+    },
+    "harbor": {
+      "total_games": 34,
+      "wins": 15,
+      "winrate": 44.12
+    },
+    "killjoy": {
+      "total_games": 231,
+      "wins": 119,
+      "winrate": 51.52
+    },
+    "sage": {
+      "total_games": 39,
+      "wins": 21,
+      "winrate": 53.85
+    },
+    "gekko": {
+      "total_games": 156,
+      "wins": 81,
+      "winrate": 51.92
+    },
+    "raze": {
+      "total_games": 231,
+      "wins": 120,
+      "winrate": 51.95
+    },
+    "skye": {
+      "total_games": 71,
+      "wins": 38,
+      "winrate": 53.52
+    },
+    "brimstone": {
+      "total_games": 57,
+      "wins": 29,
+      "winrate": 50.88
+    },
+    "fade": {
+      "total_games": 168,
+      "wins": 83,
+      "winrate": 49.4
+    },
+    "astra": {
+      "total_games": 26,
+      "wins": 16,
+      "winrate": 61.54
+    },
+    "yoru": {
+      "total_games": 42,
+      "wins": 18,
+      "winrate": 42.86
+    },
+    "iso": {
+      "total_games": 30,
+      "wins": 15,
+      "winrate": 50.0
+    },
+    "deadlock": {
+      "total_games": 24,
+      "wins": 9,
+      "winrate": 37.5
+    },
+    "clove": {
+      "total_games": 24,
+      "wins": 14,
+      "winrate": 58.33
+    },
+    "reyna": {
+      "total_games": 12,
+      "wins": 3,
+      "winrate": 25.0
+    },
+    "chamber": {
+      "total_games": 11,
+      "wins": 3,
+      "winrate": 27.27
+    },
+    "phoenix": {
+      "total_games": 7,
+      "wins": 4,
+      "winrate": 57.14
+    }
+  },
+  "8.11": {
+    "sova": {
+      "total_games": 89,
+      "wins": 45,
+      "winrate": 50.56
+    },
+    "viper": {
+      "total_games": 67,
+      "wins": 31,
+      "winrate": 46.27
+    },
+    "killjoy": {
+      "total_games": 82,
+      "wins": 39,
+      "winrate": 47.56
+    },
+    "jett": {
+      "total_games": 62,
+      "wins": 34,
+      "winrate": 54.84
+    },
+    "sage": {
+      "total_games": 9,
+      "wins": 7,
+      "winrate": 77.78
+    },
+    "gekko": {
+      "total_games": 58,
+      "wins": 19,
+      "winrate": 32.76
+    },
+    "omen": {
+      "total_games": 138,
+      "wins": 70,
+      "winrate": 50.72
+    },
+    "breach": {
+      "total_games": 52,
+      "wins": 25,
+      "winrate": 48.08
+    },
+    "neon": {
+      "total_games": 45,
+      "wins": 30,
+      "winrate": 66.67
+    },
+    "kayo": {
+      "total_games": 56,
+      "wins": 27,
+      "winrate": 48.21
+    },
+    "harbor": {
+      "total_games": 11,
+      "wins": 6,
+      "winrate": 54.55
+    },
+    "reyna": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    },
+    "fade": {
+      "total_games": 40,
+      "wins": 21,
+      "winrate": 52.5
+    },
+    "raze": {
+      "total_games": 62,
+      "wins": 26,
+      "winrate": 41.94
+    },
+    "cypher": {
+      "total_games": 86,
+      "wins": 49,
+      "winrate": 56.98
+    },
+    "iso": {
+      "total_games": 23,
+      "wins": 11,
+      "winrate": 47.83
+    },
+    "clove": {
+      "total_games": 14,
+      "wins": 8,
+      "winrate": 57.14
+    },
+    "yoru": {
+      "total_games": 18,
+      "wins": 8,
+      "winrate": 44.44
+    },
+    "deadlock": {
+      "total_games": 4,
+      "wins": 4,
+      "winrate": 100.0
+    },
+    "brimstone": {
+      "total_games": 14,
+      "wins": 6,
+      "winrate": 42.86
+    },
+    "skye": {
+      "total_games": 24,
+      "wins": 14,
+      "winrate": 58.33
+    },
+    "astra": {
+      "total_games": 8,
+      "wins": 4,
+      "winrate": 50.0
+    },
+    "chamber": {
+      "total_games": 6,
+      "wins": 0,
+      "winrate": 0.0
+    }
+  },
+  "8.07": {
+    "raze": {
+      "total_games": 346,
+      "wins": 171,
+      "winrate": 49.42
+    },
+    "omen": {
+      "total_games": 344,
+      "wins": 176,
+      "winrate": 51.16
+    },
+    "viper": {
+      "total_games": 419,
+      "wins": 202,
+      "winrate": 48.21
+    },
+    "cypher": {
+      "total_games": 218,
+      "wins": 113,
+      "winrate": 51.83
+    },
+    "skye": {
+      "total_games": 131,
+      "wins": 63,
+      "winrate": 48.09
+    },
+    "jett": {
+      "total_games": 194,
+      "wins": 98,
+      "winrate": 50.52
+    },
+    "kayo": {
+      "total_games": 197,
+      "wins": 95,
+      "winrate": 48.22
+    },
+    "killjoy": {
+      "total_games": 208,
+      "wins": 104,
+      "winrate": 50.0
+    },
+    "gekko": {
+      "total_games": 181,
+      "wins": 85,
+      "winrate": 46.96
+    },
+    "sova": {
+      "total_games": 204,
+      "wins": 109,
+      "winrate": 53.43
+    },
+    "reyna": {
+      "total_games": 10,
+      "wins": 5,
+      "winrate": 50.0
+    },
+    "fade": {
+      "total_games": 113,
+      "wins": 59,
+      "winrate": 52.21
+    },
+    "brimstone": {
+      "total_games": 82,
+      "wins": 40,
+      "winrate": 48.78
+    },
+    "harbor": {
+      "total_games": 39,
+      "wins": 18,
+      "winrate": 46.15
+    },
+    "yoru": {
+      "total_games": 60,
+      "wins": 35,
+      "winrate": 58.33
+    },
+    "astra": {
+      "total_games": 26,
+      "wins": 12,
+      "winrate": 46.15
+    },
+    "breach": {
+      "total_games": 84,
+      "wins": 48,
+      "winrate": 57.14
+    },
+    "sage": {
+      "total_games": 50,
+      "wins": 26,
+      "winrate": 52.0
+    },
+    "deadlock": {
+      "total_games": 6,
+      "wins": 2,
+      "winrate": 33.33
+    },
+    "neon": {
+      "total_games": 17,
+      "wins": 6,
+      "winrate": 35.29
+    },
+    "chamber": {
+      "total_games": 20,
+      "wins": 8,
+      "winrate": 40.0
+    },
+    "phoenix": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    }
+  },
+  "8.05": {
+    "jett": {
+      "total_games": 115,
+      "wins": 55,
+      "winrate": 47.83
+    },
+    "viper": {
+      "total_games": 257,
+      "wins": 129,
+      "winrate": 50.19
+    },
+    "raze": {
+      "total_games": 170,
+      "wins": 85,
+      "winrate": 50.0
+    },
+    "skye": {
+      "total_games": 59,
+      "wins": 28,
+      "winrate": 47.46
+    },
+    "omen": {
+      "total_games": 208,
+      "wins": 105,
+      "winrate": 50.48
+    },
+    "yoru": {
+      "total_games": 46,
+      "wins": 25,
+      "winrate": 54.35
+    },
+    "cypher": {
+      "total_games": 121,
+      "wins": 60,
+      "winrate": 49.59
+    },
+    "sova": {
+      "total_games": 131,
+      "wins": 63,
+      "winrate": 48.09
+    },
+    "fade": {
+      "total_games": 65,
+      "wins": 34,
+      "winrate": 52.31
+    },
+    "killjoy": {
+      "total_games": 138,
+      "wins": 67,
+      "winrate": 48.55
+    },
+    "kayo": {
+      "total_games": 110,
+      "wins": 50,
+      "winrate": 45.45
+    },
+    "reyna": {
+      "total_games": 6,
+      "wins": 4,
+      "winrate": 66.67
+    },
+    "gekko": {
+      "total_games": 92,
+      "wins": 48,
+      "winrate": 52.17
+    },
+    "brimstone": {
+      "total_games": 27,
+      "wins": 14,
+      "winrate": 51.85
+    },
+    "breach": {
+      "total_games": 34,
+      "wins": 15,
+      "winrate": 44.12
+    },
+    "astra": {
+      "total_games": 5,
+      "wins": 4,
+      "winrate": 80.0
+    },
+    "sage": {
+      "total_games": 25,
+      "wins": 17,
+      "winrate": 68.0
+    },
+    "harbor": {
+      "total_games": 26,
+      "wins": 13,
+      "winrate": 50.0
+    },
+    "phoenix": {
+      "total_games": 13,
+      "wins": 5,
+      "winrate": 38.46
+    },
+    "neon": {
+      "total_games": 14,
+      "wins": 10,
+      "winrate": 71.43
+    },
+    "chamber": {
+      "total_games": 15,
+      "wins": 9,
+      "winrate": 60.0
+    },
+    "deadlock": {
+      "total_games": 3,
+      "wins": 0,
+      "winrate": 0.0
+    }
+  },
+  "8.02": {
+    "jett": {
+      "total_games": 112,
+      "wins": 57,
+      "winrate": 50.89
+    },
+    "raze": {
+      "total_games": 147,
+      "wins": 74,
+      "winrate": 50.34
+    },
+    "viper": {
+      "total_games": 206,
+      "wins": 111,
+      "winrate": 53.88
+    },
+    "skye": {
+      "total_games": 75,
+      "wins": 33,
+      "winrate": 44.0
+    },
+    "astra": {
+      "total_games": 29,
+      "wins": 13,
+      "winrate": 44.83
+    },
+    "kayo": {
+      "total_games": 82,
+      "wins": 44,
+      "winrate": 53.66
+    },
+    "sova": {
+      "total_games": 111,
+      "wins": 53,
+      "winrate": 47.75
+    },
+    "cypher": {
+      "total_games": 95,
+      "wins": 47,
+      "winrate": 49.47
+    },
+    "killjoy": {
+      "total_games": 113,
+      "wins": 56,
+      "winrate": 49.56
+    },
+    "omen": {
+      "total_games": 161,
+      "wins": 80,
+      "winrate": 49.69
+    },
+    "fade": {
+      "total_games": 58,
+      "wins": 30,
+      "winrate": 51.72
+    },
+    "chamber": {
+      "total_games": 10,
+      "wins": 4,
+      "winrate": 40.0
+    },
+    "yoru": {
+      "total_games": 33,
+      "wins": 16,
+      "winrate": 48.48
+    },
+    "brimstone": {
+      "total_games": 25,
+      "wins": 12,
+      "winrate": 48.0
+    },
+    "gekko": {
+      "total_games": 46,
+      "wins": 25,
+      "winrate": 54.35
+    },
+    "breach": {
+      "total_games": 38,
+      "wins": 15,
+      "winrate": 39.47
+    },
+    "phoenix": {
+      "total_games": 4,
+      "wins": 1,
+      "winrate": 25.0
+    },
+    "harbor": {
+      "total_games": 28,
+      "wins": 11,
+      "winrate": 39.29
+    },
+    "sage": {
+      "total_games": 12,
+      "wins": 9,
+      "winrate": 75.0
+    },
+    "neon": {
+      "total_games": 10,
+      "wins": 5,
+      "winrate": 50.0
+    },
+    "reyna": {
+      "total_games": 5,
+      "wins": 4,
+      "winrate": 80.0
+    }
+  },
+  "7.09": {
+    "gekko": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "fade": {
+      "total_games": 11,
+      "wins": 2,
+      "winrate": 18.18
+    },
+    "omen": {
+      "total_games": 42,
+      "wins": 23,
+      "winrate": 54.76
+    },
+    "viper": {
+      "total_games": 38,
+      "wins": 18,
+      "winrate": 47.37
+    },
+    "raze": {
+      "total_games": 27,
+      "wins": 14,
+      "winrate": 51.85
+    },
+    "neon": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "breach": {
+      "total_games": 12,
+      "wins": 5,
+      "winrate": 41.67
+    },
+    "sova": {
+      "total_games": 22,
+      "wins": 11,
+      "winrate": 50.0
+    },
+    "jett": {
+      "total_games": 36,
+      "wins": 18,
+      "winrate": 50.0
+    },
+    "kayo": {
+      "total_games": 25,
+      "wins": 13,
+      "winrate": 52.0
+    },
+    "cypher": {
+      "total_games": 19,
+      "wins": 10,
+      "winrate": 52.63
+    },
+    "killjoy": {
+      "total_games": 33,
+      "wins": 17,
+      "winrate": 51.52
+    },
+    "skye": {
+      "total_games": 19,
+      "wins": 11,
+      "winrate": 57.89
+    },
+    "astra": {
+      "total_games": 9,
+      "wins": 4,
+      "winrate": 44.44
+    },
+    "reyna": {
+      "total_games": 3,
+      "wins": 2,
+      "winrate": 66.67
+    },
+    "iso": {
+      "total_games": 3,
+      "wins": 2,
+      "winrate": 66.67
+    },
+    "yoru": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    },
+    "chamber": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    }
+  },
+  "7.08": {
+    "skye": {
+      "total_games": 126,
+      "wins": 64,
+      "winrate": 50.79
+    },
+    "jett": {
+      "total_games": 158,
+      "wins": 79,
+      "winrate": 50.0
+    },
+    "viper": {
+      "total_games": 152,
+      "wins": 75,
+      "winrate": 49.34
+    },
+    "omen": {
+      "total_games": 159,
+      "wins": 79,
+      "winrate": 49.69
+    },
+    "killjoy": {
+      "total_games": 146,
+      "wins": 70,
+      "winrate": 47.95
+    },
+    "astra": {
+      "total_games": 42,
+      "wins": 22,
+      "winrate": 52.38
+    },
+    "raze": {
+      "total_games": 131,
+      "wins": 66,
+      "winrate": 50.38
+    },
+    "neon": {
+      "total_games": 11,
+      "wins": 5,
+      "winrate": 45.45
+    },
+    "cypher": {
+      "total_games": 49,
+      "wins": 29,
+      "winrate": 59.18
+    },
+    "kayo": {
+      "total_games": 95,
+      "wins": 45,
+      "winrate": 47.37
+    },
+    "sova": {
+      "total_games": 95,
+      "wins": 47,
+      "winrate": 49.47
+    },
+    "breach": {
+      "total_games": 51,
+      "wins": 25,
+      "winrate": 49.02
+    },
+    "fade": {
+      "total_games": 38,
+      "wins": 19,
+      "winrate": 50.0
+    },
+    "harbor": {
+      "total_games": 22,
+      "wins": 10,
+      "winrate": 45.45
+    },
+    "chamber": {
+      "total_games": 15,
+      "wins": 7,
+      "winrate": 46.67
+    },
+    "yoru": {
+      "total_games": 19,
+      "wins": 13,
+      "winrate": 68.42
+    },
+    "phoenix": {
+      "total_games": 6,
+      "wins": 3,
+      "winrate": 50.0
+    },
+    "brimstone": {
+      "total_games": 25,
+      "wins": 13,
+      "winrate": 52.0
+    },
+    "reyna": {
+      "total_games": 14,
+      "wins": 6,
+      "winrate": 42.86
+    },
+    "gekko": {
+      "total_games": 3,
+      "wins": 2,
+      "winrate": 66.67
+    },
+    "sage": {
+      "total_games": 3,
+      "wins": 1,
+      "winrate": 33.33
+    }
+  },
+  "7.07": {
+    "raze": {
+      "total_games": 26,
+      "wins": 12,
+      "winrate": 46.15
+    },
+    "viper": {
+      "total_games": 33,
+      "wins": 18,
+      "winrate": 54.55
+    },
+    "skye": {
+      "total_games": 28,
+      "wins": 14,
+      "winrate": 50.0
+    },
+    "killjoy": {
+      "total_games": 30,
+      "wins": 14,
+      "winrate": 46.67
+    },
+    "omen": {
+      "total_games": 33,
+      "wins": 18,
+      "winrate": 54.55
+    },
+    "chamber": {
+      "total_games": 4,
+      "wins": 1,
+      "winrate": 25.0
+    },
+    "brimstone": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "cypher": {
+      "total_games": 16,
+      "wins": 11,
+      "winrate": 68.75
+    },
+    "jett": {
+      "total_games": 35,
+      "wins": 16,
+      "winrate": 45.71
+    },
+    "breach": {
+      "total_games": 20,
+      "wins": 10,
+      "winrate": 50.0
+    },
+    "sova": {
+      "total_games": 20,
+      "wins": 9,
+      "winrate": 45.0
+    },
+    "kayo": {
+      "total_games": 9,
+      "wins": 6,
+      "winrate": 66.67
+    },
+    "astra": {
+      "total_games": 6,
+      "wins": 1,
+      "winrate": 16.67
+    },
+    "reyna": {
+      "total_games": 5,
+      "wins": 2,
+      "winrate": 40.0
+    },
+    "harbor": {
+      "total_games": 7,
+      "wins": 3,
+      "winrate": 42.86
+    },
+    "fade": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    },
+    "phoenix": {
+      "total_games": 1,
+      "wins": 1,
+      "winrate": 100.0
+    },
+    "gekko": {
+      "total_games": 1,
+      "wins": 1,
+      "winrate": 100.0
+    }
+  },
+  "7.0": {
+    "astra": {
+      "total_games": 71,
+      "wins": 36,
+      "winrate": 50.7
+    },
+    "raze": {
+      "total_games": 123,
+      "wins": 66,
+      "winrate": 53.66
+    },
+    "skye": {
+      "total_games": 122,
+      "wins": 63,
+      "winrate": 51.64
+    },
+    "viper": {
+      "total_games": 96,
+      "wins": 49,
+      "winrate": 51.04
+    },
+    "jett": {
+      "total_games": 137,
+      "wins": 69,
+      "winrate": 50.36
+    },
+    "chamber": {
+      "total_games": 27,
+      "wins": 18,
+      "winrate": 66.67
+    },
+    "killjoy": {
+      "total_games": 132,
+      "wins": 66,
+      "winrate": 50.0
+    },
+    "kayo": {
+      "total_games": 46,
+      "wins": 18,
+      "winrate": 39.13
+    },
+    "sova": {
+      "total_games": 71,
+      "wins": 37,
+      "winrate": 52.11
+    },
+    "omen": {
+      "total_games": 111,
+      "wins": 55,
+      "winrate": 49.55
+    },
+    "brimstone": {
+      "total_games": 36,
+      "wins": 16,
+      "winrate": 44.44
+    },
+    "cypher": {
+      "total_games": 39,
+      "wins": 19,
+      "winrate": 48.72
+    },
+    "neon": {
+      "total_games": 11,
+      "wins": 6,
+      "winrate": 54.55
+    },
+    "breach": {
+      "total_games": 76,
+      "wins": 38,
+      "winrate": 50.0
+    },
+    "reyna": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "phoenix": {
+      "total_games": 6,
+      "wins": 1,
+      "winrate": 16.67
+    },
+    "gekko": {
+      "total_games": 6,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "fade": {
+      "total_games": 20,
+      "wins": 7,
+      "winrate": 35.0
+    },
+    "yoru": {
+      "total_games": 7,
+      "wins": 5,
+      "winrate": 71.43
+    },
+    "harbor": {
+      "total_games": 26,
+      "wins": 14,
+      "winrate": 53.85
+    },
+    "sage": {
+      "total_games": 6,
+      "wins": 2,
+      "winrate": 33.33
+    }
+  },
+  "6.08": {
+    "brimstone": {
+      "total_games": 144,
+      "wins": 74,
+      "winrate": 51.39
+    },
+    "viper": {
+      "total_games": 421,
+      "wins": 192,
+      "winrate": 45.61
+    },
+    "skye": {
+      "total_games": 438,
+      "wins": 212,
+      "winrate": 48.4
+    },
+    "jett": {
+      "total_games": 528,
+      "wins": 262,
+      "winrate": 49.62
+    },
+    "raze": {
+      "total_games": 334,
+      "wins": 166,
+      "winrate": 49.7
+    },
+    "harbor": {
+      "total_games": 143,
+      "wins": 68,
+      "winrate": 47.55
+    },
+    "sage": {
+      "total_games": 50,
+      "wins": 25,
+      "winrate": 50.0
+    },
+    "killjoy": {
+      "total_games": 539,
+      "wins": 273,
+      "winrate": 50.65
+    },
+    "kayo": {
+      "total_games": 194,
+      "wins": 96,
+      "winrate": 49.48
+    },
+    "sova": {
+      "total_games": 227,
+      "wins": 115,
+      "winrate": 50.66
+    },
+    "omen": {
+      "total_games": 371,
+      "wins": 187,
+      "winrate": 50.4
+    },
+    "breach": {
+      "total_games": 229,
+      "wins": 117,
+      "winrate": 51.09
+    },
+    "astra": {
+      "total_games": 169,
+      "wins": 86,
+      "winrate": 50.89
+    },
+    "neon": {
+      "total_games": 57,
+      "wins": 36,
+      "winrate": 63.16
+    },
+    "chamber": {
+      "total_games": 5,
+      "wins": 3,
+      "winrate": 60.0
+    },
+    "gekko": {
+      "total_games": 26,
+      "wins": 16,
+      "winrate": 61.54
+    },
+    "fade": {
+      "total_games": 106,
+      "wins": 55,
+      "winrate": 51.89
+    },
+    "cypher": {
+      "total_games": 82,
+      "wins": 45,
+      "winrate": 54.88
+    },
+    "reyna": {
+      "total_games": 9,
+      "wins": 6,
+      "winrate": 66.67
+    },
+    "phoenix": {
+      "total_games": 4,
+      "wins": 3,
+      "winrate": 75.0
+    },
+    "yoru": {
+      "total_games": 14,
+      "wins": 8,
+      "winrate": 57.14
+    }
+  },
+  "9.09": {
+    "sova": {
+      "total_games": 73,
+      "wins": 31,
+      "winrate": 42.47
+    },
+    "cypher": {
+      "total_games": 72,
+      "wins": 38,
+      "winrate": 52.78
+    },
+    "omen": {
+      "total_games": 78,
+      "wins": 41,
+      "winrate": 52.56
+    },
+    "breach": {
+      "total_games": 57,
+      "wins": 30,
+      "winrate": 52.63
+    },
+    "neon": {
+      "total_games": 64,
+      "wins": 29,
+      "winrate": 45.31
+    },
+    "gekko": {
+      "total_games": 16,
+      "wins": 10,
+      "winrate": 62.5
+    },
+    "viper": {
+      "total_games": 21,
+      "wins": 8,
+      "winrate": 38.1
+    },
+    "fade": {
+      "total_games": 18,
+      "wins": 11,
+      "winrate": 61.11
+    },
+    "brimstone": {
+      "total_games": 15,
+      "wins": 10,
+      "winrate": 66.67
+    },
+    "raze": {
+      "total_games": 32,
+      "wins": 17,
+      "winrate": 53.12
+    },
+    "deadlock": {
+      "total_games": 5,
+      "wins": 1,
+      "winrate": 20.0
+    },
+    "skye": {
+      "total_games": 13,
+      "wins": 6,
+      "winrate": 46.15
+    },
+    "yoru": {
+      "total_games": 19,
+      "wins": 8,
+      "winrate": 42.11
+    },
+    "astra": {
+      "total_games": 35,
+      "wins": 14,
+      "winrate": 40.0
+    },
+    "kayo": {
+      "total_games": 40,
+      "wins": 25,
+      "winrate": 62.5
+    },
+    "jett": {
+      "total_games": 17,
+      "wins": 10,
+      "winrate": 58.82
+    },
+    "killjoy": {
+      "total_games": 18,
+      "wins": 6,
+      "winrate": 33.33
+    },
+    "vyse": {
+      "total_games": 9,
+      "wins": 8,
+      "winrate": 88.89
+    },
+    "iso": {
+      "total_games": 7,
+      "wins": 2,
+      "winrate": 28.57
+    },
+    "sage": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    }
+  },
+  "8.09": {
+    "raze": {
+      "total_games": 119,
+      "wins": 59,
+      "winrate": 49.58
+    },
+    "gekko": {
+      "total_games": 64,
+      "wins": 26,
+      "winrate": 40.62
+    },
+    "viper": {
+      "total_games": 151,
+      "wins": 76,
+      "winrate": 50.33
+    },
+    "brimstone": {
+      "total_games": 27,
+      "wins": 15,
+      "winrate": 55.56
+    },
+    "fade": {
+      "total_games": 58,
+      "wins": 30,
+      "winrate": 51.72
+    },
+    "omen": {
+      "total_games": 132,
+      "wins": 64,
+      "winrate": 48.48
+    },
+    "cypher": {
+      "total_games": 64,
+      "wins": 30,
+      "winrate": 46.88
+    },
+    "kayo": {
+      "total_games": 68,
+      "wins": 39,
+      "winrate": 57.35
+    },
+    "sova": {
+      "total_games": 89,
+      "wins": 49,
+      "winrate": 55.06
+    },
+    "jett": {
+      "total_games": 81,
+      "wins": 44,
+      "winrate": 54.32
+    },
+    "harbor": {
+      "total_games": 20,
+      "wins": 4,
+      "winrate": 20.0
+    },
+    "reyna": {
+      "total_games": 4,
+      "wins": 3,
+      "winrate": 75.0
+    },
+    "breach": {
+      "total_games": 31,
+      "wins": 15,
+      "winrate": 48.39
+    },
+    "sage": {
+      "total_games": 12,
+      "wins": 6,
+      "winrate": 50.0
+    },
+    "killjoy": {
+      "total_games": 87,
+      "wins": 46,
+      "winrate": 52.87
+    },
+    "skye": {
+      "total_games": 43,
+      "wins": 17,
+      "winrate": 39.53
+    },
+    "yoru": {
+      "total_games": 24,
+      "wins": 11,
+      "winrate": 45.83
+    },
+    "astra": {
+      "total_games": 16,
+      "wins": 11,
+      "winrate": 68.75
+    },
+    "neon": {
+      "total_games": 3,
+      "wins": 2,
+      "winrate": 66.67
+    },
+    "chamber": {
+      "total_games": 5,
+      "wins": 2,
+      "winrate": 40.0
+    },
+    "clove": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    }
+  },
+  "9.08": {
+    "raze": {
+      "total_games": 34,
+      "wins": 16,
+      "winrate": 47.06
+    },
+    "skye": {
+      "total_games": 27,
+      "wins": 14,
+      "winrate": 51.85
+    },
+    "brimstone": {
+      "total_games": 15,
+      "wins": 7,
+      "winrate": 46.67
+    },
+    "gekko": {
+      "total_games": 11,
+      "wins": 6,
+      "winrate": 54.55
+    },
+    "viper": {
+      "total_games": 26,
+      "wins": 11,
+      "winrate": 42.31
+    },
+    "cypher": {
+      "total_games": 73,
+      "wins": 36,
+      "winrate": 49.32
+    },
+    "breach": {
+      "total_games": 49,
+      "wins": 26,
+      "winrate": 53.06
+    },
+    "sova": {
+      "total_games": 87,
+      "wins": 40,
+      "winrate": 45.98
+    },
+    "neon": {
+      "total_games": 50,
+      "wins": 26,
+      "winrate": 52.0
+    },
+    "omen": {
+      "total_games": 93,
+      "wins": 49,
+      "winrate": 52.69
+    },
+    "jett": {
+      "total_games": 49,
+      "wins": 23,
+      "winrate": 46.94
+    },
+    "kayo": {
+      "total_games": 39,
+      "wins": 20,
+      "winrate": 51.28
+    },
+    "killjoy": {
+      "total_games": 19,
+      "wins": 10,
+      "winrate": 52.63
+    },
+    "astra": {
+      "total_games": 51,
+      "wins": 27,
+      "winrate": 52.94
+    },
+    "vyse": {
+      "total_games": 20,
+      "wins": 7,
+      "winrate": 35.0
+    },
+    "fade": {
+      "total_games": 20,
+      "wins": 11,
+      "winrate": 55.0
+    },
+    "harbor": {
+      "total_games": 3,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "yoru": {
+      "total_games": 23,
+      "wins": 13,
+      "winrate": 56.52
+    },
+    "reyna": {
+      "total_games": 5,
+      "wins": 4,
+      "winrate": 80.0
+    },
+    "phoenix": {
+      "total_games": 5,
+      "wins": 2,
+      "winrate": 40.0
+    },
+    "iso": {
+      "total_games": 12,
+      "wins": 8,
+      "winrate": 66.67
+    },
+    "sage": {
+      "total_games": 1,
+      "wins": 1,
+      "winrate": 100.0
+    },
+    "clove": {
+      "total_games": 2,
+      "wins": 2,
+      "winrate": 100.0
+    },
+    "chamber": {
+      "total_games": 3,
+      "wins": 1,
+      "winrate": 33.33
+    },
+    "deadlock": {
+      "total_games": 3,
+      "wins": 0,
+      "winrate": 0.0
+    }
+  },
+  "9.05": {
+    "raze": {
+      "total_games": 13,
+      "wins": 8,
+      "winrate": 61.54
+    },
+    "fade": {
+      "total_games": 6,
+      "wins": 1,
+      "winrate": 16.67
+    },
+    "killjoy": {
+      "total_games": 6,
+      "wins": 3,
+      "winrate": 50.0
+    },
+    "omen": {
+      "total_games": 10,
+      "wins": 4,
+      "winrate": 40.0
+    },
+    "viper": {
+      "total_games": 11,
+      "wins": 5,
+      "winrate": 45.45
+    },
+    "gekko": {
+      "total_games": 6,
+      "wins": 3,
+      "winrate": 50.0
+    },
+    "clove": {
+      "total_games": 2,
+      "wins": 2,
+      "winrate": 100.0
+    },
+    "cypher": {
+      "total_games": 10,
+      "wins": 6,
+      "winrate": 60.0
+    },
+    "breach": {
+      "total_games": 6,
+      "wins": 4,
+      "winrate": 66.67
+    },
+    "brimstone": {
+      "total_games": 6,
+      "wins": 3,
+      "winrate": 50.0
+    },
+    "skye": {
+      "total_games": 4,
+      "wins": 3,
+      "winrate": 75.0
+    },
+    "yoru": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "jett": {
+      "total_games": 3,
+      "wins": 2,
+      "winrate": 66.67
+    },
+    "sova": {
+      "total_games": 7,
+      "wins": 3,
+      "winrate": 42.86
+    },
+    "kayo": {
+      "total_games": 5,
+      "wins": 3,
+      "winrate": 60.0
+    },
+    "neon": {
+      "total_games": 3,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "reyna": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    }
+  },
+  "8.03": {
+    "skye": {
+      "total_games": 89,
+      "wins": 41,
+      "winrate": 46.07
+    },
+    "yoru": {
+      "total_games": 44,
+      "wins": 21,
+      "winrate": 47.73
+    },
+    "brimstone": {
+      "total_games": 24,
+      "wins": 11,
+      "winrate": 45.83
+    },
+    "viper": {
+      "total_games": 214,
+      "wins": 112,
+      "winrate": 52.34
+    },
+    "raze": {
+      "total_games": 175,
+      "wins": 91,
+      "winrate": 52.0
+    },
+    "kayo": {
+      "total_games": 67,
+      "wins": 36,
+      "winrate": 53.73
+    },
+    "omen": {
+      "total_games": 197,
+      "wins": 105,
+      "winrate": 53.3
+    },
+    "sova": {
+      "total_games": 93,
+      "wins": 50,
+      "winrate": 53.76
+    },
+    "killjoy": {
+      "total_games": 88,
+      "wins": 47,
+      "winrate": 53.41
+    },
+    "jett": {
+      "total_games": 96,
+      "wins": 44,
+      "winrate": 45.83
+    },
+    "cypher": {
+      "total_games": 134,
+      "wins": 70,
+      "winrate": 52.24
+    },
+    "breach": {
+      "total_games": 53,
+      "wins": 20,
+      "winrate": 37.74
+    },
+    "phoenix": {
+      "total_games": 15,
+      "wins": 6,
+      "winrate": 40.0
+    },
+    "deadlock": {
+      "total_games": 4,
+      "wins": 1,
+      "winrate": 25.0
+    },
+    "gekko": {
+      "total_games": 46,
+      "wins": 22,
+      "winrate": 47.83
+    },
+    "harbor": {
+      "total_games": 20,
+      "wins": 10,
+      "winrate": 50.0
+    },
+    "fade": {
+      "total_games": 60,
+      "wins": 28,
+      "winrate": 46.67
+    },
+    "astra": {
+      "total_games": 21,
+      "wins": 5,
+      "winrate": 23.81
+    },
+    "chamber": {
+      "total_games": 3,
+      "wins": 1,
+      "winrate": 33.33
+    },
+    "sage": {
+      "total_games": 10,
+      "wins": 6,
+      "winrate": 60.0
+    },
+    "neon": {
+      "total_games": 5,
+      "wins": 2,
+      "winrate": 40.0
+    },
+    "reyna": {
+      "total_games": 8,
+      "wins": 3,
+      "winrate": 37.5
+    },
+    "iso": {
+      "total_games": 4,
+      "wins": 3,
+      "winrate": 75.0
+    }
+  },
+  "8.0": {
+    "killjoy": {
+      "total_games": 20,
+      "wins": 9,
+      "winrate": 45.0
+    },
+    "astra": {
+      "total_games": 5,
+      "wins": 3,
+      "winrate": 60.0
+    },
+    "viper": {
+      "total_games": 17,
+      "wins": 8,
+      "winrate": 47.06
+    },
+    "skye": {
+      "total_games": 11,
+      "wins": 7,
+      "winrate": 63.64
+    },
+    "raze": {
+      "total_games": 18,
+      "wins": 9,
+      "winrate": 50.0
+    },
+    "omen": {
+      "total_games": 23,
+      "wins": 12,
+      "winrate": 52.17
+    },
+    "jett": {
+      "total_games": 18,
+      "wins": 9,
+      "winrate": 50.0
+    },
+    "sova": {
+      "total_games": 18,
+      "wins": 6,
+      "winrate": 33.33
+    },
+    "sage": {
+      "total_games": 6,
+      "wins": 5,
+      "winrate": 83.33
+    },
+    "deadlock": {
+      "total_games": 3,
+      "wins": 1,
+      "winrate": 33.33
+    },
+    "chamber": {
+      "total_games": 1,
+      "wins": 1,
+      "winrate": 100.0
+    },
+    "fade": {
+      "total_games": 6,
+      "wins": 4,
+      "winrate": 66.67
+    },
+    "yoru": {
+      "total_games": 1,
+      "wins": 1,
+      "winrate": 100.0
+    },
+    "kayo": {
+      "total_games": 10,
+      "wins": 4,
+      "winrate": 40.0
+    },
+    "cypher": {
+      "total_games": 12,
+      "wins": 7,
+      "winrate": 58.33
+    },
+    "harbor": {
+      "total_games": 6,
+      "wins": 3,
+      "winrate": 50.0
+    },
+    "reyna": {
+      "total_games": 2,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "breach": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    },
+    "phoenix": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    }
+  },
+  "10.01": {
+    "omen": {
+      "total_games": 156,
+      "wins": 76,
+      "winrate": 48.72
+    },
+    "sova": {
+      "total_games": 142,
+      "wins": 74,
+      "winrate": 52.11
+    },
+    "vyse": {
+      "total_games": 102,
+      "wins": 58,
+      "winrate": 56.86
+    },
+    "astra": {
+      "total_games": 158,
+      "wins": 82,
+      "winrate": 51.9
+    },
+    "jett": {
+      "total_games": 102,
+      "wins": 56,
+      "winrate": 54.9
+    },
+    "cypher": {
+      "total_games": 114,
+      "wins": 54,
+      "winrate": 47.37
+    },
+    "kayo": {
+      "total_games": 72,
+      "wins": 40,
+      "winrate": 55.56
+    },
+    "raze": {
+      "total_games": 194,
+      "wins": 96,
+      "winrate": 49.48
+    },
+    "chamber": {
+      "total_games": 30,
+      "wins": 12,
+      "winrate": 40.0
+    },
+    "viper": {
+      "total_games": 108,
+      "wins": 58,
+      "winrate": 53.7
+    },
+    "skye": {
+      "total_games": 50,
+      "wins": 26,
+      "winrate": 52.0
+    },
+    "yoru": {
+      "total_games": 86,
+      "wins": 36,
+      "winrate": 41.86
+    },
+    "brimstone": {
+      "total_games": 90,
+      "wins": 44,
+      "winrate": 48.89
+    },
+    "deadlock": {
+      "total_games": 20,
+      "wins": 6,
+      "winrate": 30.0
+    },
+    "breach": {
+      "total_games": 118,
+      "wins": 56,
+      "winrate": 47.46
+    },
+    "harbor": {
+      "total_games": 2,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "neon": {
+      "total_games": 30,
+      "wins": 20,
+      "winrate": 66.67
+    },
+    "fade": {
+      "total_games": 110,
+      "wins": 44,
+      "winrate": 40.0
+    },
+    "killjoy": {
+      "total_games": 48,
+      "wins": 28,
+      "winrate": 58.33
+    },
+    "phoenix": {
+      "total_games": 8,
+      "wins": 2,
+      "winrate": 25.0
+    },
+    "tejo": {
+      "total_games": 106,
+      "wins": 56,
+      "winrate": 52.83
+    },
+    "iso": {
+      "total_games": 18,
+      "wins": 10,
+      "winrate": 55.56
+    },
+    "gekko": {
+      "total_games": 24,
+      "wins": 12,
+      "winrate": 50.0
+    },
+    "clove": {
+      "total_games": 6,
+      "wins": 2,
+      "winrate": 33.33
+    },
+    "reyna": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "sage": {
+      "total_games": 2,
+      "wins": 0,
+      "winrate": 0.0
+    }
+  },
+  "7.02": {
+    "viper": {
+      "total_games": 115,
+      "wins": 53,
+      "winrate": 46.09
+    },
+    "skye": {
+      "total_games": 119,
+      "wins": 61,
+      "winrate": 51.26
+    },
+    "jett": {
+      "total_games": 113,
+      "wins": 56,
+      "winrate": 49.56
+    },
+    "astra": {
+      "total_games": 64,
+      "wins": 36,
+      "winrate": 56.25
+    },
+    "raze": {
+      "total_games": 112,
+      "wins": 57,
+      "winrate": 50.89
+    },
+    "reyna": {
+      "total_games": 6,
+      "wins": 5,
+      "winrate": 83.33
+    },
+    "kayo": {
+      "total_games": 43,
+      "wins": 24,
+      "winrate": 55.81
+    },
+    "harbor": {
+      "total_games": 24,
+      "wins": 12,
+      "winrate": 50.0
+    },
+    "sova": {
+      "total_games": 52,
+      "wins": 29,
+      "winrate": 55.77
+    },
+    "killjoy": {
+      "total_games": 136,
+      "wins": 70,
+      "winrate": 51.47
+    },
+    "omen": {
+      "total_games": 83,
+      "wins": 35,
+      "winrate": 42.17
+    },
+    "breach": {
+      "total_games": 48,
+      "wins": 24,
+      "winrate": 50.0
+    },
+    "brimstone": {
+      "total_games": 51,
+      "wins": 27,
+      "winrate": 52.94
+    },
+    "yoru": {
+      "total_games": 8,
+      "wins": 4,
+      "winrate": 50.0
+    },
+    "chamber": {
+      "total_games": 23,
+      "wins": 7,
+      "winrate": 30.43
+    },
+    "fade": {
+      "total_games": 26,
+      "wins": 10,
+      "winrate": 38.46
+    },
+    "phoenix": {
+      "total_games": 7,
+      "wins": 7,
+      "winrate": 100.0
+    },
+    "cypher": {
+      "total_games": 13,
+      "wins": 9,
+      "winrate": 69.23
+    },
+    "neon": {
+      "total_games": 8,
+      "wins": 1,
+      "winrate": 12.5
+    },
+    "sage": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "gekko": {
+      "total_games": 8,
+      "wins": 3,
+      "winrate": 37.5
+    }
+  },
+  "6.10": {
+    "killjoy": {
+      "total_games": 160,
+      "wins": 84,
+      "winrate": 52.5
+    },
+    "fade": {
+      "total_games": 31,
+      "wins": 19,
+      "winrate": 61.29
+    },
+    "astra": {
+      "total_games": 43,
+      "wins": 25,
+      "winrate": 58.14
+    },
+    "raze": {
+      "total_games": 112,
+      "wins": 64,
+      "winrate": 57.14
+    },
+    "viper": {
+      "total_games": 117,
+      "wins": 59,
+      "winrate": 50.43
+    },
+    "skye": {
+      "total_games": 148,
+      "wins": 67,
+      "winrate": 45.27
+    },
+    "jett": {
+      "total_games": 161,
+      "wins": 80,
+      "winrate": 49.69
+    },
+    "omen": {
+      "total_games": 121,
+      "wins": 52,
+      "winrate": 42.98
+    },
+    "breach": {
+      "total_games": 82,
+      "wins": 43,
+      "winrate": 52.44
+    },
+    "cypher": {
+      "total_games": 40,
+      "wins": 19,
+      "winrate": 47.5
+    },
+    "brimstone": {
+      "total_games": 62,
+      "wins": 35,
+      "winrate": 56.45
+    },
+    "chamber": {
+      "total_games": 4,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "reyna": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "sova": {
+      "total_games": 65,
+      "wins": 38,
+      "winrate": 58.46
+    },
+    "neon": {
+      "total_games": 24,
+      "wins": 5,
+      "winrate": 20.83
+    },
+    "gekko": {
+      "total_games": 18,
+      "wins": 8,
+      "winrate": 44.44
+    },
+    "harbor": {
+      "total_games": 44,
+      "wins": 24,
+      "winrate": 54.55
+    },
+    "phoenix": {
+      "total_games": 4,
+      "wins": 3,
+      "winrate": 75.0
+    },
+    "kayo": {
+      "total_games": 56,
+      "wins": 24,
+      "winrate": 42.86
+    },
+    "sage": {
+      "total_games": 16,
+      "wins": 5,
+      "winrate": 31.25
+    },
+    "yoru": {
+      "total_games": 1,
+      "wins": 1,
+      "winrate": 100.0
+    }
+  },
+  "9.02": {
+    "sova": {
+      "total_games": 128,
+      "wins": 66,
+      "winrate": 51.56
+    },
+    "cypher": {
+      "total_games": 100,
+      "wins": 50,
+      "winrate": 50.0
+    },
+    "astra": {
+      "total_games": 33,
+      "wins": 16,
+      "winrate": 48.48
+    },
+    "breach": {
+      "total_games": 54,
+      "wins": 24,
+      "winrate": 44.44
+    },
+    "raze": {
+      "total_games": 94,
+      "wins": 44,
+      "winrate": 46.81
+    },
+    "neon": {
+      "total_games": 51,
+      "wins": 30,
+      "winrate": 58.82
+    },
+    "omen": {
+      "total_games": 144,
+      "wins": 76,
+      "winrate": 52.78
+    },
+    "yoru": {
+      "total_games": 21,
+      "wins": 10,
+      "winrate": 47.62
+    },
+    "iso": {
+      "total_games": 4,
+      "wins": 4,
+      "winrate": 100.0
+    },
+    "fade": {
+      "total_games": 79,
+      "wins": 41,
+      "winrate": 51.9
+    },
+    "viper": {
+      "total_games": 120,
+      "wins": 57,
+      "winrate": 47.5
+    },
+    "killjoy": {
+      "total_games": 83,
+      "wins": 40,
+      "winrate": 48.19
+    },
+    "jett": {
+      "total_games": 68,
+      "wins": 34,
+      "winrate": 50.0
+    },
+    "sage": {
+      "total_games": 10,
+      "wins": 2,
+      "winrate": 20.0
+    },
+    "kayo": {
+      "total_games": 41,
+      "wins": 22,
+      "winrate": 53.66
+    },
+    "gekko": {
+      "total_games": 63,
+      "wins": 31,
+      "winrate": 49.21
+    },
+    "harbor": {
+      "total_games": 20,
+      "wins": 13,
+      "winrate": 65.0
+    },
+    "brimstone": {
+      "total_games": 24,
+      "wins": 10,
+      "winrate": 41.67
+    },
+    "clove": {
+      "total_games": 9,
+      "wins": 5,
+      "winrate": 55.56
+    },
+    "skye": {
+      "total_games": 17,
+      "wins": 8,
+      "winrate": 47.06
+    },
+    "deadlock": {
+      "total_games": 10,
+      "wins": 4,
+      "winrate": 40.0
+    },
+    "phoenix": {
+      "total_games": 2,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "chamber": {
+      "total_games": 5,
+      "wins": 3,
+      "winrate": 60.0
+    }
+  },
+  "8.04": {
+    "gekko": {
+      "total_games": 46,
+      "wins": 29,
+      "winrate": 63.04
+    },
+    "fade": {
+      "total_games": 40,
+      "wins": 25,
+      "winrate": 62.5
+    },
+    "omen": {
+      "total_games": 142,
+      "wins": 69,
+      "winrate": 48.59
+    },
+    "raze": {
+      "total_games": 115,
+      "wins": 59,
+      "winrate": 51.3
+    },
+    "viper": {
+      "total_games": 142,
+      "wins": 75,
+      "winrate": 52.82
+    },
+    "breach": {
+      "total_games": 23,
+      "wins": 8,
+      "winrate": 34.78
+    },
+    "kayo": {
+      "total_games": 57,
+      "wins": 27,
+      "winrate": 47.37
+    },
+    "phoenix": {
+      "total_games": 6,
+      "wins": 2,
+      "winrate": 33.33
+    },
+    "sage": {
+      "total_games": 11,
+      "wins": 6,
+      "winrate": 54.55
+    },
+    "sova": {
+      "total_games": 58,
+      "wins": 26,
+      "winrate": 44.83
+    },
+    "cypher": {
+      "total_games": 58,
+      "wins": 22,
+      "winrate": 37.93
+    },
+    "skye": {
+      "total_games": 55,
+      "wins": 26,
+      "winrate": 47.27
+    },
+    "jett": {
+      "total_games": 74,
+      "wins": 36,
+      "winrate": 48.65
+    },
+    "killjoy": {
+      "total_games": 63,
+      "wins": 37,
+      "winrate": 58.73
+    },
+    "harbor": {
+      "total_games": 7,
+      "wins": 4,
+      "winrate": 57.14
+    },
+    "chamber": {
+      "total_games": 3,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "yoru": {
+      "total_games": 18,
+      "wins": 9,
+      "winrate": 50.0
+    },
+    "astra": {
+      "total_games": 16,
+      "wins": 8,
+      "winrate": 50.0
+    },
+    "neon": {
+      "total_games": 10,
+      "wins": 4,
+      "winrate": 40.0
+    },
+    "reyna": {
+      "total_games": 4,
+      "wins": 1,
+      "winrate": 25.0
+    },
+    "brimstone": {
+      "total_games": 10,
+      "wins": 7,
+      "winrate": 70.0
+    },
+    "deadlock": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "iso": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    }
+  },
+  "11.05": {
+    "fade": {
+      "total_games": 115,
+      "wins": 54,
+      "winrate": 46.96
+    },
+    "yoru": {
+      "total_games": 132,
+      "wins": 68,
+      "winrate": 51.52
+    },
+    "viper": {
+      "total_games": 118,
+      "wins": 70,
+      "winrate": 59.32
+    },
+    "astra": {
+      "total_games": 27,
+      "wins": 11,
+      "winrate": 40.74
+    },
+    "vyse": {
+      "total_games": 69,
+      "wins": 30,
+      "winrate": 43.48
+    },
+    "kayo": {
+      "total_games": 37,
+      "wins": 18,
+      "winrate": 48.65
+    },
+    "omen": {
+      "total_games": 207,
+      "wins": 103,
+      "winrate": 49.76
+    },
+    "waylay": {
+      "total_games": 66,
+      "wins": 38,
+      "winrate": 57.58
+    },
+    "sova": {
+      "total_games": 134,
+      "wins": 74,
+      "winrate": 55.22
+    },
+    "neon": {
+      "total_games": 59,
+      "wins": 22,
+      "winrate": 37.29
+    },
+    "cypher": {
+      "total_games": 80,
+      "wins": 37,
+      "winrate": 46.25
+    },
+    "jett": {
+      "total_games": 30,
+      "wins": 10,
+      "winrate": 33.33
+    },
+    "raze": {
+      "total_games": 59,
+      "wins": 33,
+      "winrate": 55.93
+    },
+    "brimstone": {
+      "total_games": 27,
+      "wins": 16,
+      "winrate": 59.26
+    },
+    "tejo": {
+      "total_games": 25,
+      "wins": 10,
+      "winrate": 40.0
+    },
+    "breach": {
+      "total_games": 20,
+      "wins": 10,
+      "winrate": 50.0
+    },
+    "killjoy": {
+      "total_games": 25,
+      "wins": 16,
+      "winrate": 64.0
+    },
+    "deadlock": {
+      "total_games": 16,
+      "wins": 7,
+      "winrate": 43.75
+    },
+    "harbor": {
+      "total_games": 4,
+      "wins": 3,
+      "winrate": 75.0
+    },
+    "sage": {
+      "total_games": 17,
+      "wins": 10,
+      "winrate": 58.82
+    },
+    "chamber": {
+      "total_games": 12,
+      "wins": 4,
+      "winrate": 33.33
+    },
+    "skye": {
+      "total_games": 4,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "gekko": {
+      "total_games": 7,
+      "wins": 1,
+      "winrate": 14.29
+    }
+  },
+  "10.10": {
+    "harbor": {
+      "total_games": 7,
+      "wins": 4,
+      "winrate": 57.14
+    },
+    "viper": {
+      "total_games": 118,
+      "wins": 61,
+      "winrate": 51.69
+    },
+    "jett": {
+      "total_games": 34,
+      "wins": 17,
+      "winrate": 50.0
+    },
+    "sova": {
+      "total_games": 96,
+      "wins": 48,
+      "winrate": 50.0
+    },
+    "chamber": {
+      "total_games": 8,
+      "wins": 8,
+      "winrate": 100.0
+    },
+    "killjoy": {
+      "total_games": 56,
+      "wins": 30,
+      "winrate": 53.57
+    },
+    "omen": {
+      "total_games": 147,
+      "wins": 68,
+      "winrate": 46.26
+    },
+    "neon": {
+      "total_games": 47,
+      "wins": 20,
+      "winrate": 42.55
+    },
+    "cypher": {
+      "total_games": 48,
+      "wins": 12,
+      "winrate": 25.0
+    },
+    "raze": {
+      "total_games": 60,
+      "wins": 39,
+      "winrate": 65.0
+    },
+    "gekko": {
+      "total_games": 13,
+      "wins": 1,
+      "winrate": 7.69
+    },
+    "deadlock": {
+      "total_games": 11,
+      "wins": 5,
+      "winrate": 45.45
+    },
+    "breach": {
+      "total_games": 25,
+      "wins": 5,
+      "winrate": 20.0
+    },
+    "fade": {
+      "total_games": 72,
+      "wins": 41,
+      "winrate": 56.94
+    },
+    "waylay": {
+      "total_games": 4,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "tejo": {
+      "total_games": 9,
+      "wins": 2,
+      "winrate": 22.22
+    },
+    "vyse": {
+      "total_games": 30,
+      "wins": 21,
+      "winrate": 70.0
+    },
+    "kayo": {
+      "total_games": 14,
+      "wins": 4,
+      "winrate": 28.57
+    },
+    "yoru": {
+      "total_games": 60,
+      "wins": 36,
+      "winrate": 60.0
+    },
+    "sage": {
+      "total_games": 14,
+      "wins": 14,
+      "winrate": 100.0
+    },
+    "skye": {
+      "total_games": 3,
+      "wins": 1,
+      "winrate": 33.33
+    },
+    "astra": {
+      "total_games": 17,
+      "wins": 12,
+      "winrate": 70.59
+    },
+    "iso": {
+      "total_games": 5,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "clove": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "phoenix": {
+      "total_games": 1,
+      "wins": 1,
+      "winrate": 100.0
+    }
+  },
+  "10.02": {
+    "cypher": {
+      "total_games": 37,
+      "wins": 17,
+      "winrate": 45.95
+    },
+    "omen": {
+      "total_games": 72,
+      "wins": 37,
+      "winrate": 51.39
+    },
+    "breach": {
+      "total_games": 61,
+      "wins": 30,
+      "winrate": 49.18
+    },
+    "tejo": {
+      "total_games": 75,
+      "wins": 34,
+      "winrate": 45.33
+    },
+    "yoru": {
+      "total_games": 63,
+      "wins": 40,
+      "winrate": 63.49
+    },
+    "raze": {
+      "total_games": 52,
+      "wins": 25,
+      "winrate": 48.08
+    },
+    "fade": {
+      "total_games": 33,
+      "wins": 15,
+      "winrate": 45.45
+    },
+    "viper": {
+      "total_games": 47,
+      "wins": 28,
+      "winrate": 59.57
+    },
+    "vyse": {
+      "total_games": 42,
+      "wins": 18,
+      "winrate": 42.86
+    },
+    "kayo": {
+      "total_games": 12,
+      "wins": 5,
+      "winrate": 41.67
+    },
+    "sova": {
+      "total_games": 33,
+      "wins": 19,
+      "winrate": 57.58
+    },
+    "jett": {
+      "total_games": 21,
+      "wins": 4,
+      "winrate": 19.05
+    },
+    "astra": {
+      "total_games": 29,
+      "wins": 12,
+      "winrate": 41.38
+    },
+    "brimstone": {
+      "total_games": 34,
+      "wins": 17,
+      "winrate": 50.0
+    },
+    "gekko": {
+      "total_games": 2,
+      "wins": 2,
+      "winrate": 100.0
+    },
+    "skye": {
+      "total_games": 11,
+      "wins": 6,
+      "winrate": 54.55
+    },
+    "iso": {
+      "total_games": 11,
+      "wins": 7,
+      "winrate": 63.64
+    },
+    "chamber": {
+      "total_games": 7,
+      "wins": 4,
+      "winrate": 57.14
+    },
+    "reyna": {
+      "total_games": 2,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "neon": {
+      "total_games": 10,
+      "wins": 6,
+      "winrate": 60.0
+    },
+    "killjoy": {
+      "total_games": 5,
+      "wins": 4,
+      "winrate": 80.0
+    },
+    "clove": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    }
+  },
+  "9.07": {
+    "yoru": {
+      "total_games": 15,
+      "wins": 8,
+      "winrate": 53.33
+    },
+    "sova": {
+      "total_games": 51,
+      "wins": 23,
+      "winrate": 45.1
+    },
+    "omen": {
+      "total_games": 59,
+      "wins": 31,
+      "winrate": 52.54
+    },
+    "cypher": {
+      "total_games": 42,
+      "wins": 18,
+      "winrate": 42.86
+    },
+    "iso": {
+      "total_games": 5,
+      "wins": 3,
+      "winrate": 60.0
+    },
+    "neon": {
+      "total_games": 31,
+      "wins": 14,
+      "winrate": 45.16
+    },
+    "chamber": {
+      "total_games": 5,
+      "wins": 4,
+      "winrate": 80.0
+    },
+    "astra": {
+      "total_games": 11,
+      "wins": 4,
+      "winrate": 36.36
+    },
+    "kayo": {
+      "total_games": 21,
+      "wins": 11,
+      "winrate": 52.38
+    },
+    "jett": {
+      "total_games": 31,
+      "wins": 18,
+      "winrate": 58.06
+    },
+    "killjoy": {
+      "total_games": 22,
+      "wins": 13,
+      "winrate": 59.09
+    },
+    "brimstone": {
+      "total_games": 13,
+      "wins": 8,
+      "winrate": 61.54
+    },
+    "breach": {
+      "total_games": 29,
+      "wins": 9,
+      "winrate": 31.03
+    },
+    "raze": {
+      "total_games": 18,
+      "wins": 12,
+      "winrate": 66.67
+    },
+    "viper": {
+      "total_games": 16,
+      "wins": 7,
+      "winrate": 43.75
+    },
+    "gekko": {
+      "total_games": 17,
+      "wins": 11,
+      "winrate": 64.71
+    },
+    "fade": {
+      "total_games": 13,
+      "wins": 7,
+      "winrate": 53.85
+    },
+    "skye": {
+      "total_games": 5,
+      "wins": 2,
+      "winrate": 40.0
+    },
+    "clove": {
+      "total_games": 2,
+      "wins": 2,
+      "winrate": 100.0
+    },
+    "deadlock": {
+      "total_games": 3,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "sage": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    }
+  },
+  "9.04": {
+    "omen": {
+      "total_games": 106,
+      "wins": 51,
+      "winrate": 48.11
+    },
+    "cypher": {
+      "total_games": 89,
+      "wins": 50,
+      "winrate": 56.18
+    },
+    "breach": {
+      "total_games": 48,
+      "wins": 22,
+      "winrate": 45.83
+    },
+    "sova": {
+      "total_games": 81,
+      "wins": 41,
+      "winrate": 50.62
+    },
+    "neon": {
+      "total_games": 47,
+      "wins": 26,
+      "winrate": 55.32
+    },
+    "gekko": {
+      "total_games": 29,
+      "wins": 10,
+      "winrate": 34.48
+    },
+    "yoru": {
+      "total_games": 18,
+      "wins": 11,
+      "winrate": 61.11
+    },
+    "kayo": {
+      "total_games": 35,
+      "wins": 15,
+      "winrate": 42.86
+    },
+    "viper": {
+      "total_games": 48,
+      "wins": 22,
+      "winrate": 45.83
+    },
+    "jett": {
+      "total_games": 47,
+      "wins": 21,
+      "winrate": 44.68
+    },
+    "killjoy": {
+      "total_games": 46,
+      "wins": 20,
+      "winrate": 43.48
+    },
+    "iso": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    },
+    "skye": {
+      "total_games": 13,
+      "wins": 8,
+      "winrate": 61.54
+    },
+    "brimstone": {
+      "total_games": 16,
+      "wins": 9,
+      "winrate": 56.25
+    },
+    "raze": {
+      "total_games": 35,
+      "wins": 15,
+      "winrate": 42.86
+    },
+    "fade": {
+      "total_games": 29,
+      "wins": 15,
+      "winrate": 51.72
+    },
+    "sage": {
+      "total_games": 1,
+      "wins": 1,
+      "winrate": 100.0
+    },
+    "deadlock": {
+      "total_games": 12,
+      "wins": 11,
+      "winrate": 91.67
+    },
+    "reyna": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    },
+    "astra": {
+      "total_games": 8,
+      "wins": 4,
+      "winrate": 50.0
+    },
+    "clove": {
+      "total_games": 6,
+      "wins": 5,
+      "winrate": 83.33
+    },
+    "harbor": {
+      "total_games": 8,
+      "wins": 6,
+      "winrate": 75.0
+    },
+    "phoenix": {
+      "total_games": 4,
+      "wins": 0,
+      "winrate": 0.0
+    }
+  },
+  "8.10": {
+    "killjoy": {
+      "total_games": 58,
+      "wins": 30,
+      "winrate": 51.72
+    },
+    "viper": {
+      "total_games": 61,
+      "wins": 30,
+      "winrate": 49.18
+    },
+    "skye": {
+      "total_games": 28,
+      "wins": 10,
+      "winrate": 35.71
+    },
+    "raze": {
+      "total_games": 94,
+      "wins": 46,
+      "winrate": 48.94
+    },
+    "omen": {
+      "total_games": 137,
+      "wins": 68,
+      "winrate": 49.64
+    },
+    "fade": {
+      "total_games": 40,
+      "wins": 27,
+      "winrate": 67.5
+    },
+    "breach": {
+      "total_games": 48,
+      "wins": 25,
+      "winrate": 52.08
+    },
+    "neon": {
+      "total_games": 11,
+      "wins": 7,
+      "winrate": 63.64
+    },
+    "kayo": {
+      "total_games": 60,
+      "wins": 23,
+      "winrate": 38.33
+    },
+    "sova": {
+      "total_games": 73,
+      "wins": 34,
+      "winrate": 46.58
+    },
+    "jett": {
+      "total_games": 74,
+      "wins": 30,
+      "winrate": 40.54
+    },
+    "brimstone": {
+      "total_games": 18,
+      "wins": 8,
+      "winrate": 44.44
+    },
+    "gekko": {
+      "total_games": 43,
+      "wins": 26,
+      "winrate": 60.47
+    },
+    "chamber": {
+      "total_games": 4,
+      "wins": 1,
+      "winrate": 25.0
+    },
+    "sage": {
+      "total_games": 7,
+      "wins": 3,
+      "winrate": 42.86
+    },
+    "astra": {
+      "total_games": 7,
+      "wins": 4,
+      "winrate": 57.14
+    },
+    "cypher": {
+      "total_games": 92,
+      "wins": 47,
+      "winrate": 51.09
+    },
+    "deadlock": {
+      "total_games": 8,
+      "wins": 7,
+      "winrate": 87.5
+    },
+    "yoru": {
+      "total_games": 22,
+      "wins": 14,
+      "winrate": 63.64
+    },
+    "harbor": {
+      "total_games": 3,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "clove": {
+      "total_games": 7,
+      "wins": 7,
+      "winrate": 100.0
+    },
+    "reyna": {
+      "total_games": 2,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "phoenix": {
+      "total_games": 1,
+      "wins": 1,
+      "winrate": 100.0
+    },
+    "iso": {
+      "total_games": 2,
+      "wins": 2,
+      "winrate": 100.0
+    }
+  },
+  "nan": {
+    "omen": {
+      "total_games": 635,
+      "wins": 331,
+      "winrate": 52.13
+    },
+    "jett": {
+      "total_games": 1188,
+      "wins": 604,
+      "winrate": 50.84
+    },
+    "sova": {
+      "total_games": 1201,
+      "wins": 600,
+      "winrate": 49.96
+    },
+    "kayo": {
+      "total_games": 447,
+      "wins": 224,
+      "winrate": 50.11
+    },
+    "killjoy": {
+      "total_games": 562,
+      "wins": 272,
+      "winrate": 48.4
+    },
+    "breach": {
+      "total_games": 448,
+      "wins": 213,
+      "winrate": 47.54
+    },
+    "cypher": {
+      "total_games": 478,
+      "wins": 249,
+      "winrate": 52.09
+    },
+    "neon": {
+      "total_games": 134,
+      "wins": 65,
+      "winrate": 48.51
+    },
+    "astra": {
+      "total_games": 715,
+      "wins": 352,
+      "winrate": 49.23
+    },
+    "viper": {
+      "total_games": 717,
+      "wins": 355,
+      "winrate": 49.51
+    },
+    "raze": {
+      "total_games": 595,
+      "wins": 302,
+      "winrate": 50.76
+    },
+    "skye": {
+      "total_games": 475,
+      "wins": 223,
+      "winrate": 46.95
+    },
+    "reyna": {
+      "total_games": 179,
+      "wins": 97,
+      "winrate": 54.19
+    },
+    "yoru": {
+      "total_games": 37,
+      "wins": 15,
+      "winrate": 40.54
+    },
+    "brimstone": {
+      "total_games": 140,
+      "wins": 64,
+      "winrate": 45.71
+    },
+    "waylay": {
+      "total_games": 2,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "gekko": {
+      "total_games": 6,
+      "wins": 2,
+      "winrate": 33.33
+    },
+    "chamber": {
+      "total_games": 433,
+      "wins": 209,
+      "winrate": 48.27
+    },
+    "deadlock": {
+      "total_games": 20,
+      "wins": 10,
+      "winrate": 50.0
+    },
+    "clove": {
+      "total_games": 3,
+      "wins": 3,
+      "winrate": 100.0
+    },
+    "sage": {
+      "total_games": 485,
+      "wins": 253,
+      "winrate": 52.16
+    },
+    "iso": {
+      "total_games": 2,
+      "wins": 2,
+      "winrate": 100.0
+    },
+    "fade": {
+      "total_games": 168,
+      "wins": 86,
+      "winrate": 51.19
+    },
+    "tejo": {
+      "total_games": 23,
+      "wins": 14,
+      "winrate": 60.87
+    },
+    "vyse": {
+      "total_games": 12,
+      "wins": 10,
+      "winrate": 83.33
+    },
+    "harbor": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    },
+    "phoenix": {
+      "total_games": 87,
+      "wins": 49,
+      "winrate": 56.32
+    }
+  },
+  "10.08": {
+    "astra": {
+      "total_games": 24,
+      "wins": 14,
+      "winrate": 58.33
+    },
+    "raze": {
+      "total_games": 52,
+      "wins": 28,
+      "winrate": 53.85
+    },
+    "vyse": {
+      "total_games": 26,
+      "wins": 14,
+      "winrate": 53.85
+    },
+    "yoru": {
+      "total_games": 66,
+      "wins": 34,
+      "winrate": 51.52
+    },
+    "fade": {
+      "total_games": 54,
+      "wins": 24,
+      "winrate": 44.44
+    },
+    "sova": {
+      "total_games": 72,
+      "wins": 34,
+      "winrate": 47.22
+    },
+    "neon": {
+      "total_games": 56,
+      "wins": 28,
+      "winrate": 50.0
+    },
+    "killjoy": {
+      "total_games": 56,
+      "wins": 28,
+      "winrate": 50.0
+    },
+    "omen": {
+      "total_games": 134,
+      "wins": 68,
+      "winrate": 50.75
+    },
+    "viper": {
+      "total_games": 84,
+      "wins": 42,
+      "winrate": 50.0
+    },
+    "tejo": {
+      "total_games": 76,
+      "wins": 42,
+      "winrate": 55.26
+    },
+    "deadlock": {
+      "total_games": 38,
+      "wins": 18,
+      "winrate": 47.37
+    },
+    "cypher": {
+      "total_games": 80,
+      "wins": 38,
+      "winrate": 47.5
+    },
+    "breach": {
+      "total_games": 46,
+      "wins": 22,
+      "winrate": 47.83
+    },
+    "jett": {
+      "total_games": 52,
+      "wins": 26,
+      "winrate": 50.0
+    },
+    "kayo": {
+      "total_games": 28,
+      "wins": 12,
+      "winrate": 42.86
+    },
+    "chamber": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "sage": {
+      "total_games": 12,
+      "wins": 10,
+      "winrate": 83.33
+    },
+    "gekko": {
+      "total_games": 26,
+      "wins": 12,
+      "winrate": 46.15
+    },
+    "clove": {
+      "total_games": 2,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "iso": {
+      "total_games": 6,
+      "wins": 2,
+      "winrate": 33.33
+    },
+    "brimstone": {
+      "total_games": 24,
+      "wins": 12,
+      "winrate": 50.0
+    },
+    "waylay": {
+      "total_games": 2,
+      "wins": 0,
+      "winrate": 0.0
+    }
+  },
+  "9.11": {
+    "breach": {
+      "total_games": 3,
+      "wins": 2,
+      "winrate": 66.67
+    },
+    "sova": {
+      "total_games": 6,
+      "wins": 3,
+      "winrate": 50.0
+    },
+    "killjoy": {
+      "total_games": 5,
+      "wins": 2,
+      "winrate": 40.0
+    },
+    "omen": {
+      "total_games": 6,
+      "wins": 3,
+      "winrate": 50.0
+    },
+    "raze": {
+      "total_games": 5,
+      "wins": 3,
+      "winrate": 60.0
+    },
+    "skye": {
+      "total_games": 4,
+      "wins": 1,
+      "winrate": 25.0
+    },
+    "viper": {
+      "total_games": 2,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "jett": {
+      "total_games": 6,
+      "wins": 2,
+      "winrate": 33.33
+    },
+    "vyse": {
+      "total_games": 4,
+      "wins": 3,
+      "winrate": 75.0
+    },
+    "cypher": {
+      "total_games": 3,
+      "wins": 2,
+      "winrate": 66.67
+    },
+    "kayo": {
+      "total_games": 6,
+      "wins": 3,
+      "winrate": 50.0
+    },
+    "astra": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    },
+    "fade": {
+      "total_games": 2,
+      "wins": 2,
+      "winrate": 100.0
+    },
+    "brimstone": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "neon": {
+      "total_games": 1,
+      "wins": 1,
+      "winrate": 100.0
+    },
+    "yoru": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    }
+  },
+  "7.12": {
+    "viper": {
+      "total_games": 56,
+      "wins": 27,
+      "winrate": 48.21
+    },
+    "sova": {
+      "total_games": 54,
+      "wins": 28,
+      "winrate": 51.85
+    },
+    "jett": {
+      "total_games": 60,
+      "wins": 26,
+      "winrate": 43.33
+    },
+    "kayo": {
+      "total_games": 29,
+      "wins": 15,
+      "winrate": 51.72
+    },
+    "cypher": {
+      "total_games": 30,
+      "wins": 17,
+      "winrate": 56.67
+    },
+    "killjoy": {
+      "total_games": 48,
+      "wins": 23,
+      "winrate": 47.92
+    },
+    "omen": {
+      "total_games": 70,
+      "wins": 37,
+      "winrate": 52.86
+    },
+    "skye": {
+      "total_games": 39,
+      "wins": 17,
+      "winrate": 43.59
+    },
+    "breach": {
+      "total_games": 30,
+      "wins": 17,
+      "winrate": 56.67
+    },
+    "raze": {
+      "total_games": 37,
+      "wins": 22,
+      "winrate": 59.46
+    },
+    "iso": {
+      "total_games": 4,
+      "wins": 3,
+      "winrate": 75.0
+    },
+    "gekko": {
+      "total_games": 4,
+      "wins": 3,
+      "winrate": 75.0
+    },
+    "chamber": {
+      "total_games": 5,
+      "wins": 2,
+      "winrate": 40.0
+    },
+    "phoenix": {
+      "total_games": 2,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "astra": {
+      "total_games": 6,
+      "wins": 1,
+      "winrate": 16.67
+    },
+    "neon": {
+      "total_games": 1,
+      "wins": 1,
+      "winrate": 100.0
+    },
+    "harbor": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "fade": {
+      "total_games": 5,
+      "wins": 1,
+      "winrate": 20.0
+    },
+    "sage": {
+      "total_games": 4,
+      "wins": 1,
+      "winrate": 25.0
+    },
+    "brimstone": {
+      "total_games": 7,
+      "wins": 3,
+      "winrate": 42.86
+    },
+    "yoru": {
+      "total_games": 5,
+      "wins": 4,
+      "winrate": 80.0
+    }
+  },
+  "6.05": {
+    "jett": {
+      "total_games": 263,
+      "wins": 133,
+      "winrate": 50.57
+    },
+    "sage": {
+      "total_games": 43,
+      "wins": 21,
+      "winrate": 48.84
+    },
+    "sova": {
+      "total_games": 161,
+      "wins": 83,
+      "winrate": 51.55
+    },
+    "gekko": {
+      "total_games": 33,
+      "wins": 12,
+      "winrate": 36.36
+    },
+    "viper": {
+      "total_games": 151,
+      "wins": 73,
+      "winrate": 48.34
+    },
+    "killjoy": {
+      "total_games": 274,
+      "wins": 140,
+      "winrate": 51.09
+    },
+    "skye": {
+      "total_games": 148,
+      "wins": 72,
+      "winrate": 48.65
+    },
+    "harbor": {
+      "total_games": 68,
+      "wins": 33,
+      "winrate": 48.53
+    },
+    "astra": {
+      "total_games": 106,
+      "wins": 51,
+      "winrate": 48.11
+    },
+    "raze": {
+      "total_games": 117,
+      "wins": 61,
+      "winrate": 52.14
+    },
+    "phoenix": {
+      "total_games": 7,
+      "wins": 5,
+      "winrate": 71.43
+    },
+    "fade": {
+      "total_games": 30,
+      "wins": 16,
+      "winrate": 53.33
+    },
+    "kayo": {
+      "total_games": 133,
+      "wins": 63,
+      "winrate": 47.37
+    },
+    "omen": {
+      "total_games": 177,
+      "wins": 92,
+      "winrate": 51.98
+    },
+    "breach": {
+      "total_games": 135,
+      "wins": 64,
+      "winrate": 47.41
+    },
+    "cypher": {
+      "total_games": 56,
+      "wins": 33,
+      "winrate": 58.93
+    },
+    "brimstone": {
+      "total_games": 30,
+      "wins": 14,
+      "winrate": 46.67
+    },
+    "neon": {
+      "total_games": 17,
+      "wins": 7,
+      "winrate": 41.18
+    },
+    "chamber": {
+      "total_games": 4,
+      "wins": 3,
+      "winrate": 75.0
+    },
+    "yoru": {
+      "total_games": 3,
+      "wins": 2,
+      "winrate": 66.67
+    },
+    "reyna": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    }
+  },
+  "6.02": {
+    "jett": {
+      "total_games": 181,
+      "wins": 93,
+      "winrate": 51.38
+    },
+    "omen": {
+      "total_games": 115,
+      "wins": 54,
+      "winrate": 46.96
+    },
+    "raze": {
+      "total_games": 95,
+      "wins": 46,
+      "winrate": 48.42
+    },
+    "cypher": {
+      "total_games": 53,
+      "wins": 24,
+      "winrate": 45.28
+    },
+    "sage": {
+      "total_games": 55,
+      "wins": 31,
+      "winrate": 56.36
+    },
+    "skye": {
+      "total_games": 61,
+      "wins": 37,
+      "winrate": 60.66
+    },
+    "viper": {
+      "total_games": 112,
+      "wins": 57,
+      "winrate": 50.89
+    },
+    "astra": {
+      "total_games": 99,
+      "wins": 48,
+      "winrate": 48.48
+    },
+    "kayo": {
+      "total_games": 131,
+      "wins": 52,
+      "winrate": 39.69
+    },
+    "fade": {
+      "total_games": 63,
+      "wins": 30,
+      "winrate": 47.62
+    },
+    "killjoy": {
+      "total_games": 219,
+      "wins": 114,
+      "winrate": 52.05
+    },
+    "harbor": {
+      "total_games": 31,
+      "wins": 15,
+      "winrate": 48.39
+    },
+    "breach": {
+      "total_games": 110,
+      "wins": 54,
+      "winrate": 49.09
+    },
+    "sova": {
+      "total_games": 126,
+      "wins": 64,
+      "winrate": 50.79
+    },
+    "neon": {
+      "total_games": 22,
+      "wins": 14,
+      "winrate": 63.64
+    },
+    "brimstone": {
+      "total_games": 32,
+      "wins": 19,
+      "winrate": 59.38
+    },
+    "phoenix": {
+      "total_games": 3,
+      "wins": 2,
+      "winrate": 66.67
+    },
+    "chamber": {
+      "total_games": 6,
+      "wins": 4,
+      "winrate": 66.67
+    },
+    "yoru": {
+      "total_games": 3,
+      "wins": 2,
+      "winrate": 66.67
+    },
+    "reyna": {
+      "total_games": 3,
+      "wins": 0,
+      "winrate": 0.0
+    }
+  },
+  "5.10": {
+    "jett": {
+      "total_games": 128,
+      "wins": 73,
+      "winrate": 57.03
+    },
+    "sova": {
+      "total_games": 113,
+      "wins": 62,
+      "winrate": 54.87
+    },
+    "chamber": {
+      "total_games": 206,
+      "wins": 102,
+      "winrate": 49.51
+    },
+    "kayo": {
+      "total_games": 152,
+      "wins": 78,
+      "winrate": 51.32
+    },
+    "viper": {
+      "total_games": 144,
+      "wins": 76,
+      "winrate": 52.78
+    },
+    "sage": {
+      "total_games": 47,
+      "wins": 24,
+      "winrate": 51.06
+    },
+    "reyna": {
+      "total_games": 17,
+      "wins": 6,
+      "winrate": 35.29
+    },
+    "neon": {
+      "total_games": 23,
+      "wins": 10,
+      "winrate": 43.48
+    },
+    "breach": {
+      "total_games": 96,
+      "wins": 44,
+      "winrate": 45.83
+    },
+    "raze": {
+      "total_games": 114,
+      "wins": 57,
+      "winrate": 50.0
+    },
+    "brimstone": {
+      "total_games": 65,
+      "wins": 31,
+      "winrate": 47.69
+    },
+    "skye": {
+      "total_games": 40,
+      "wins": 24,
+      "winrate": 60.0
+    },
+    "omen": {
+      "total_games": 118,
+      "wins": 58,
+      "winrate": 49.15
+    },
+    "fade": {
+      "total_games": 178,
+      "wins": 82,
+      "winrate": 46.07
+    },
+    "astra": {
+      "total_games": 78,
+      "wins": 38,
+      "winrate": 48.72
+    },
+    "killjoy": {
+      "total_games": 78,
+      "wins": 38,
+      "winrate": 48.72
+    },
+    "cypher": {
+      "total_games": 23,
+      "wins": 15,
+      "winrate": 65.22
+    },
+    "phoenix": {
+      "total_games": 17,
+      "wins": 5,
+      "winrate": 29.41
+    },
+    "yoru": {
+      "total_games": 4,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "harbor": {
+      "total_games": 9,
+      "wins": 2,
+      "winrate": 22.22
+    }
+  },
+  "9.06": {
+    "omen": {
+      "total_games": 39,
+      "wins": 21,
+      "winrate": 53.85
+    },
+    "sova": {
+      "total_games": 41,
+      "wins": 19,
+      "winrate": 46.34
+    },
+    "kayo": {
+      "total_games": 21,
+      "wins": 11,
+      "winrate": 52.38
+    },
+    "jett": {
+      "total_games": 20,
+      "wins": 10,
+      "winrate": 50.0
+    },
+    "killjoy": {
+      "total_games": 10,
+      "wins": 6,
+      "winrate": 60.0
+    },
+    "viper": {
+      "total_games": 5,
+      "wins": 2,
+      "winrate": 40.0
+    },
+    "chamber": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "gekko": {
+      "total_games": 5,
+      "wins": 5,
+      "winrate": 100.0
+    },
+    "breach": {
+      "total_games": 25,
+      "wins": 13,
+      "winrate": 52.0
+    },
+    "cypher": {
+      "total_games": 37,
+      "wins": 15,
+      "winrate": 40.54
+    },
+    "neon": {
+      "total_games": 31,
+      "wins": 15,
+      "winrate": 48.39
+    },
+    "astra": {
+      "total_games": 5,
+      "wins": 2,
+      "winrate": 40.0
+    },
+    "sage": {
+      "total_games": 4,
+      "wins": 4,
+      "winrate": 100.0
+    },
+    "clove": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "fade": {
+      "total_games": 8,
+      "wins": 4,
+      "winrate": 50.0
+    },
+    "vyse": {
+      "total_games": 5,
+      "wins": 3,
+      "winrate": 60.0
+    },
+    "raze": {
+      "total_games": 6,
+      "wins": 3,
+      "winrate": 50.0
+    },
+    "brimstone": {
+      "total_games": 6,
+      "wins": 3,
+      "winrate": 50.0
+    },
+    "deadlock": {
+      "total_games": 2,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "skye": {
+      "total_games": 2,
+      "wins": 0,
+      "winrate": 0.0
+    }
+  },
+  "7.10": {
+    "sova": {
+      "total_games": 64,
+      "wins": 32,
+      "winrate": 50.0
+    },
+    "omen": {
+      "total_games": 104,
+      "wins": 54,
+      "winrate": 51.92
+    },
+    "killjoy": {
+      "total_games": 58,
+      "wins": 27,
+      "winrate": 46.55
+    },
+    "breach": {
+      "total_games": 44,
+      "wins": 24,
+      "winrate": 54.55
+    },
+    "jett": {
+      "total_games": 73,
+      "wins": 40,
+      "winrate": 54.79
+    },
+    "viper": {
+      "total_games": 81,
+      "wins": 37,
+      "winrate": 45.68
+    },
+    "kayo": {
+      "total_games": 26,
+      "wins": 14,
+      "winrate": 53.85
+    },
+    "reyna": {
+      "total_games": 7,
+      "wins": 4,
+      "winrate": 57.14
+    },
+    "cypher": {
+      "total_games": 57,
+      "wins": 32,
+      "winrate": 56.14
+    },
+    "raze": {
+      "total_games": 82,
+      "wins": 39,
+      "winrate": 47.56
+    },
+    "fade": {
+      "total_games": 15,
+      "wins": 7,
+      "winrate": 46.67
+    },
+    "chamber": {
+      "total_games": 7,
+      "wins": 3,
+      "winrate": 42.86
+    },
+    "brimstone": {
+      "total_games": 13,
+      "wins": 6,
+      "winrate": 46.15
+    },
+    "yoru": {
+      "total_games": 17,
+      "wins": 7,
+      "winrate": 41.18
+    },
+    "skye": {
+      "total_games": 60,
+      "wins": 29,
+      "winrate": 48.33
+    },
+    "astra": {
+      "total_games": 14,
+      "wins": 4,
+      "winrate": 28.57
+    },
+    "gekko": {
+      "total_games": 8,
+      "wins": 6,
+      "winrate": 75.0
+    },
+    "sage": {
+      "total_games": 4,
+      "wins": 1,
+      "winrate": 25.0
+    },
+    "iso": {
+      "total_games": 1,
+      "wins": 1,
+      "winrate": 100.0
+    },
+    "phoenix": {
+      "total_games": 1,
+      "wins": 1,
+      "winrate": 100.0
+    },
+    "harbor": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    }
+  },
+  "6.07": {
+    "astra": {
+      "total_games": 11,
+      "wins": 7,
+      "winrate": 63.64
+    },
+    "sova": {
+      "total_games": 10,
+      "wins": 5,
+      "winrate": 50.0
+    },
+    "jett": {
+      "total_games": 22,
+      "wins": 12,
+      "winrate": 54.55
+    },
+    "breach": {
+      "total_games": 11,
+      "wins": 7,
+      "winrate": 63.64
+    },
+    "killjoy": {
+      "total_games": 20,
+      "wins": 11,
+      "winrate": 55.0
+    },
+    "omen": {
+      "total_games": 10,
+      "wins": 3,
+      "winrate": 30.0
+    },
+    "gekko": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    },
+    "kayo": {
+      "total_games": 10,
+      "wins": 5,
+      "winrate": 50.0
+    },
+    "skye": {
+      "total_games": 10,
+      "wins": 4,
+      "winrate": 40.0
+    },
+    "harbor": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    },
+    "viper": {
+      "total_games": 10,
+      "wins": 3,
+      "winrate": 30.0
+    },
+    "cypher": {
+      "total_games": 7,
+      "wins": 4,
+      "winrate": 57.14
+    },
+    "fade": {
+      "total_games": 3,
+      "wins": 1,
+      "winrate": 33.33
+    },
+    "raze": {
+      "total_games": 10,
+      "wins": 4,
+      "winrate": 40.0
+    },
+    "brimstone": {
+      "total_games": 7,
+      "wins": 4,
+      "winrate": 57.14
+    },
+    "sage": {
+      "total_games": 2,
+      "wins": 2,
+      "winrate": 100.0
+    },
+    "neon": {
+      "total_games": 3,
+      "wins": 1,
+      "winrate": 33.33
+    }
+  },
+  "6.06": {
+    "sage": {
+      "total_games": 63,
+      "wins": 30,
+      "winrate": 47.62
+    },
+    "raze": {
+      "total_games": 127,
+      "wins": 59,
+      "winrate": 46.46
+    },
+    "astra": {
+      "total_games": 112,
+      "wins": 60,
+      "winrate": 53.57
+    },
+    "breach": {
+      "total_games": 140,
+      "wins": 62,
+      "winrate": 44.29
+    },
+    "cypher": {
+      "total_games": 64,
+      "wins": 32,
+      "winrate": 50.0
+    },
+    "phoenix": {
+      "total_games": 9,
+      "wins": 3,
+      "winrate": 33.33
+    },
+    "harbor": {
+      "total_games": 89,
+      "wins": 50,
+      "winrate": 56.18
+    },
+    "omen": {
+      "total_games": 249,
+      "wins": 116,
+      "winrate": 46.59
+    },
+    "skye": {
+      "total_games": 180,
+      "wins": 99,
+      "winrate": 55.0
+    },
+    "killjoy": {
+      "total_games": 366,
+      "wins": 185,
+      "winrate": 50.55
+    },
+    "neon": {
+      "total_games": 25,
+      "wins": 13,
+      "winrate": 52.0
+    },
+    "jett": {
+      "total_games": 362,
+      "wins": 190,
+      "winrate": 52.49
+    },
+    "viper": {
+      "total_games": 226,
+      "wins": 121,
+      "winrate": 53.54
+    },
+    "sova": {
+      "total_games": 225,
+      "wins": 104,
+      "winrate": 46.22
+    },
+    "kayo": {
+      "total_games": 150,
+      "wins": 74,
+      "winrate": 49.33
+    },
+    "fade": {
+      "total_games": 59,
+      "wins": 23,
+      "winrate": 38.98
+    },
+    "brimstone": {
+      "total_games": 36,
+      "wins": 17,
+      "winrate": 47.22
+    },
+    "gekko": {
+      "total_games": 19,
+      "wins": 14,
+      "winrate": 73.68
+    },
+    "chamber": {
+      "total_games": 8,
+      "wins": 2,
+      "winrate": 25.0
+    },
+    "reyna": {
+      "total_games": 6,
+      "wins": 2,
+      "winrate": 33.33
+    },
+    "yoru": {
+      "total_games": 5,
+      "wins": 4,
+      "winrate": 80.0
+    }
+  },
+  "8.08": {
+    "sage": {
+      "total_games": 6,
+      "wins": 5,
+      "winrate": 83.33
+    },
+    "omen": {
+      "total_games": 23,
+      "wins": 10,
+      "winrate": 43.48
+    },
+    "phoenix": {
+      "total_games": 1,
+      "wins": 1,
+      "winrate": 100.0
+    },
+    "clove": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    },
+    "sova": {
+      "total_games": 15,
+      "wins": 7,
+      "winrate": 46.67
+    },
+    "cypher": {
+      "total_games": 10,
+      "wins": 3,
+      "winrate": 30.0
+    },
+    "neon": {
+      "total_games": 2,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "kayo": {
+      "total_games": 17,
+      "wins": 9,
+      "winrate": 52.94
+    },
+    "raze": {
+      "total_games": 8,
+      "wins": 3,
+      "winrate": 37.5
+    },
+    "skye": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    },
+    "breach": {
+      "total_games": 3,
+      "wins": 1,
+      "winrate": 33.33
+    },
+    "viper": {
+      "total_games": 17,
+      "wins": 11,
+      "winrate": 64.71
+    },
+    "jett": {
+      "total_games": 9,
+      "wins": 5,
+      "winrate": 55.56
+    },
+    "gekko": {
+      "total_games": 11,
+      "wins": 8,
+      "winrate": 72.73
+    },
+    "harbor": {
+      "total_games": 3,
+      "wins": 1,
+      "winrate": 33.33
+    },
+    "killjoy": {
+      "total_games": 15,
+      "wins": 7,
+      "winrate": 46.67
+    },
+    "reyna": {
+      "total_games": 3,
+      "wins": 1,
+      "winrate": 33.33
+    },
+    "fade": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "brimstone": {
+      "total_games": 1,
+      "wins": 1,
+      "winrate": 100.0
+    },
+    "yoru": {
+      "total_games": 5,
+      "wins": 3,
+      "winrate": 60.0
+    },
+    "deadlock": {
+      "total_games": 3,
+      "wins": 0,
+      "winrate": 0.0
+    }
+  },
+  "9.01": {
+    "breach": {
+      "total_games": 21,
+      "wins": 8,
+      "winrate": 38.1
+    },
+    "omen": {
+      "total_games": 38,
+      "wins": 19,
+      "winrate": 50.0
+    },
+    "sova": {
+      "total_games": 20,
+      "wins": 11,
+      "winrate": 55.0
+    },
+    "killjoy": {
+      "total_games": 19,
+      "wins": 11,
+      "winrate": 57.89
+    },
+    "raze": {
+      "total_games": 21,
+      "wins": 10,
+      "winrate": 47.62
+    },
+    "jett": {
+      "total_games": 16,
+      "wins": 10,
+      "winrate": 62.5
+    },
+    "kayo": {
+      "total_games": 17,
+      "wins": 9,
+      "winrate": 52.94
+    },
+    "gekko": {
+      "total_games": 10,
+      "wins": 5,
+      "winrate": 50.0
+    },
+    "cypher": {
+      "total_games": 24,
+      "wins": 10,
+      "winrate": 41.67
+    },
+    "skye": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "viper": {
+      "total_games": 11,
+      "wins": 7,
+      "winrate": 63.64
+    },
+    "brimstone": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    },
+    "neon": {
+      "total_games": 3,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "fade": {
+      "total_games": 5,
+      "wins": 2,
+      "winrate": 40.0
+    },
+    "astra": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    },
+    "deadlock": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    },
+    "sage": {
+      "total_games": 2,
+      "wins": 2,
+      "winrate": 100.0
+    },
+    "harbor": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "yoru": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    }
+  },
+  "10.11": {
+    "sage": {
+      "total_games": 3,
+      "wins": 3,
+      "winrate": 100.0
+    },
+    "sova": {
+      "total_games": 21,
+      "wins": 10,
+      "winrate": 47.62
+    },
+    "viper": {
+      "total_games": 15,
+      "wins": 11,
+      "winrate": 73.33
+    },
+    "killjoy": {
+      "total_games": 9,
+      "wins": 5,
+      "winrate": 55.56
+    },
+    "jett": {
+      "total_games": 7,
+      "wins": 4,
+      "winrate": 57.14
+    },
+    "harbor": {
+      "total_games": 2,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "raze": {
+      "total_games": 2,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "fade": {
+      "total_games": 5,
+      "wins": 3,
+      "winrate": 60.0
+    },
+    "omen": {
+      "total_games": 21,
+      "wins": 10,
+      "winrate": 47.62
+    },
+    "vyse": {
+      "total_games": 3,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "yoru": {
+      "total_games": 7,
+      "wins": 3,
+      "winrate": 42.86
+    },
+    "chamber": {
+      "total_games": 3,
+      "wins": 3,
+      "winrate": 100.0
+    },
+    "cypher": {
+      "total_games": 11,
+      "wins": 5,
+      "winrate": 45.45
+    },
+    "iso": {
+      "total_games": 2,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "neon": {
+      "total_games": 12,
+      "wins": 6,
+      "winrate": 50.0
+    },
+    "kayo": {
+      "total_games": 3,
+      "wins": 1,
+      "winrate": 33.33
+    },
+    "breach": {
+      "total_games": 4,
+      "wins": 1,
+      "winrate": 25.0
+    }
+  },
+  "6.11": {
+    "killjoy": {
+      "total_games": 85,
+      "wins": 46,
+      "winrate": 54.12
+    },
+    "sova": {
+      "total_games": 57,
+      "wins": 29,
+      "winrate": 50.88
+    },
+    "breach": {
+      "total_games": 46,
+      "wins": 25,
+      "winrate": 54.35
+    },
+    "jett": {
+      "total_games": 102,
+      "wins": 56,
+      "winrate": 54.9
+    },
+    "omen": {
+      "total_games": 74,
+      "wins": 39,
+      "winrate": 52.7
+    },
+    "kayo": {
+      "total_games": 38,
+      "wins": 16,
+      "winrate": 42.11
+    },
+    "cypher": {
+      "total_games": 13,
+      "wins": 4,
+      "winrate": 30.77
+    },
+    "phoenix": {
+      "total_games": 10,
+      "wins": 8,
+      "winrate": 80.0
+    },
+    "astra": {
+      "total_games": 32,
+      "wins": 15,
+      "winrate": 46.88
+    },
+    "gekko": {
+      "total_games": 6,
+      "wins": 2,
+      "winrate": 33.33
+    },
+    "sage": {
+      "total_games": 8,
+      "wins": 4,
+      "winrate": 50.0
+    },
+    "skye": {
+      "total_games": 41,
+      "wins": 22,
+      "winrate": 53.66
+    },
+    "fade": {
+      "total_games": 17,
+      "wins": 6,
+      "winrate": 35.29
+    },
+    "brimstone": {
+      "total_games": 18,
+      "wins": 9,
+      "winrate": 50.0
+    },
+    "viper": {
+      "total_games": 41,
+      "wins": 17,
+      "winrate": 41.46
+    },
+    "reyna": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    },
+    "raze": {
+      "total_games": 31,
+      "wins": 14,
+      "winrate": 45.16
+    },
+    "yoru": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    },
+    "neon": {
+      "total_games": 5,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "chamber": {
+      "total_games": 7,
+      "wins": 4,
+      "winrate": 57.14
+    },
+    "harbor": {
+      "total_games": 5,
+      "wins": 2,
+      "winrate": 40.0
+    }
+  },
+  "8.01": {
+    "omen": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "kayo": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "raze": {
+      "total_games": 3,
+      "wins": 1,
+      "winrate": 33.33
+    },
+    "gekko": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "cypher": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    },
+    "yoru": {
+      "total_games": 3,
+      "wins": 3,
+      "winrate": 100.0
+    },
+    "breach": {
+      "total_games": 1,
+      "wins": 1,
+      "winrate": 100.0
+    },
+    "jett": {
+      "total_games": 2,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "harbor": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "killjoy": {
+      "total_games": 6,
+      "wins": 3,
+      "winrate": 50.0
+    },
+    "viper": {
+      "total_games": 6,
+      "wins": 3,
+      "winrate": 50.0
+    },
+    "sova": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "fade": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "neon": {
+      "total_games": 1,
+      "wins": 1,
+      "winrate": 100.0
+    },
+    "skye": {
+      "total_games": 1,
+      "wins": 1,
+      "winrate": 100.0
+    }
+  },
+  "5.08": {
+    "killjoy": {
+      "total_games": 13,
+      "wins": 7,
+      "winrate": 53.85
+    },
+    "sova": {
+      "total_games": 39,
+      "wins": 20,
+      "winrate": 51.28
+    },
+    "kayo": {
+      "total_games": 38,
+      "wins": 21,
+      "winrate": 55.26
+    },
+    "jett": {
+      "total_games": 25,
+      "wins": 9,
+      "winrate": 36.0
+    },
+    "omen": {
+      "total_games": 22,
+      "wins": 12,
+      "winrate": 54.55
+    },
+    "fade": {
+      "total_games": 60,
+      "wins": 30,
+      "winrate": 50.0
+    },
+    "cypher": {
+      "total_games": 5,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "viper": {
+      "total_games": 39,
+      "wins": 22,
+      "winrate": 56.41
+    },
+    "raze": {
+      "total_games": 42,
+      "wins": 26,
+      "winrate": 61.9
+    },
+    "sage": {
+      "total_games": 25,
+      "wins": 13,
+      "winrate": 52.0
+    },
+    "chamber": {
+      "total_games": 75,
+      "wins": 37,
+      "winrate": 49.33
+    },
+    "brimstone": {
+      "total_games": 22,
+      "wins": 9,
+      "winrate": 40.91
+    },
+    "breach": {
+      "total_games": 31,
+      "wins": 12,
+      "winrate": 38.71
+    },
+    "skye": {
+      "total_games": 13,
+      "wins": 5,
+      "winrate": 38.46
+    },
+    "astra": {
+      "total_games": 33,
+      "wins": 17,
+      "winrate": 51.52
+    },
+    "neon": {
+      "total_games": 9,
+      "wins": 1,
+      "winrate": 11.11
+    },
+    "phoenix": {
+      "total_games": 7,
+      "wins": 5,
+      "winrate": 71.43
+    },
+    "harbor": {
+      "total_games": 5,
+      "wins": 3,
+      "winrate": 60.0
+    },
+    "reyna": {
+      "total_games": 14,
+      "wins": 9,
+      "winrate": 64.29
+    },
+    "yoru": {
+      "total_games": 3,
+      "wins": 2,
+      "winrate": 66.67
+    }
+  },
+  "5.07": {
+    "chamber": {
+      "total_games": 54,
+      "wins": 28,
+      "winrate": 51.85
+    },
+    "reyna": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "viper": {
+      "total_games": 45,
+      "wins": 22,
+      "winrate": 48.89
+    },
+    "jett": {
+      "total_games": 43,
+      "wins": 23,
+      "winrate": 53.49
+    },
+    "sova": {
+      "total_games": 45,
+      "wins": 22,
+      "winrate": 48.89
+    },
+    "kayo": {
+      "total_games": 44,
+      "wins": 23,
+      "winrate": 52.27
+    },
+    "brimstone": {
+      "total_games": 14,
+      "wins": 9,
+      "winrate": 64.29
+    },
+    "fade": {
+      "total_games": 49,
+      "wins": 26,
+      "winrate": 53.06
+    },
+    "omen": {
+      "total_games": 43,
+      "wins": 19,
+      "winrate": 44.19
+    },
+    "killjoy": {
+      "total_games": 27,
+      "wins": 16,
+      "winrate": 59.26
+    },
+    "raze": {
+      "total_games": 30,
+      "wins": 13,
+      "winrate": 43.33
+    },
+    "breach": {
+      "total_games": 20,
+      "wins": 9,
+      "winrate": 45.0
+    },
+    "skye": {
+      "total_games": 18,
+      "wins": 10,
+      "winrate": 55.56
+    },
+    "astra": {
+      "total_games": 13,
+      "wins": 8,
+      "winrate": 61.54
+    },
+    "sage": {
+      "total_games": 20,
+      "wins": 7,
+      "winrate": 35.0
+    },
+    "cypher": {
+      "total_games": 8,
+      "wins": 3,
+      "winrate": 37.5
+    },
+    "neon": {
+      "total_games": 2,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "yoru": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    }
+  },
+  "5.04": {
+    "chamber": {
+      "total_games": 168,
+      "wins": 85,
+      "winrate": 50.6
+    },
+    "sova": {
+      "total_games": 89,
+      "wins": 45,
+      "winrate": 50.56
+    },
+    "sage": {
+      "total_games": 57,
+      "wins": 27,
+      "winrate": 47.37
+    },
+    "viper": {
+      "total_games": 119,
+      "wins": 60,
+      "winrate": 50.42
+    },
+    "kayo": {
+      "total_games": 120,
+      "wins": 62,
+      "winrate": 51.67
+    },
+    "killjoy": {
+      "total_games": 44,
+      "wins": 21,
+      "winrate": 47.73
+    },
+    "jett": {
+      "total_games": 77,
+      "wins": 39,
+      "winrate": 50.65
+    },
+    "breach": {
+      "total_games": 63,
+      "wins": 30,
+      "winrate": 47.62
+    },
+    "neon": {
+      "total_games": 40,
+      "wins": 20,
+      "winrate": 50.0
+    },
+    "skye": {
+      "total_games": 47,
+      "wins": 23,
+      "winrate": 48.94
+    },
+    "fade": {
+      "total_games": 129,
+      "wins": 65,
+      "winrate": 50.39
+    },
+    "omen": {
+      "total_games": 87,
+      "wins": 43,
+      "winrate": 49.43
+    },
+    "raze": {
+      "total_games": 85,
+      "wins": 45,
+      "winrate": 52.94
+    },
+    "astra": {
+      "total_games": 47,
+      "wins": 21,
+      "winrate": 44.68
+    },
+    "brimstone": {
+      "total_games": 52,
+      "wins": 28,
+      "winrate": 53.85
+    },
+    "cypher": {
+      "total_games": 17,
+      "wins": 9,
+      "winrate": 52.94
+    },
+    "yoru": {
+      "total_games": 3,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "phoenix": {
+      "total_games": 14,
+      "wins": 6,
+      "winrate": 42.86
+    },
+    "reyna": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    }
+  },
+  "4.11": {
+    "sova": {
+      "total_games": 201,
+      "wins": 103,
+      "winrate": 51.24
+    },
+    "sage": {
+      "total_games": 122,
+      "wins": 63,
+      "winrate": 51.64
+    },
+    "fade": {
+      "total_games": 144,
+      "wins": 71,
+      "winrate": 49.31
+    },
+    "viper": {
+      "total_games": 211,
+      "wins": 114,
+      "winrate": 54.03
+    },
+    "chamber": {
+      "total_games": 328,
+      "wins": 158,
+      "winrate": 48.17
+    },
+    "killjoy": {
+      "total_games": 84,
+      "wins": 47,
+      "winrate": 55.95
+    },
+    "astra": {
+      "total_games": 83,
+      "wins": 43,
+      "winrate": 51.81
+    },
+    "raze": {
+      "total_games": 171,
+      "wins": 86,
+      "winrate": 50.29
+    },
+    "breach": {
+      "total_games": 141,
+      "wins": 64,
+      "winrate": 45.39
+    },
+    "omen": {
+      "total_games": 161,
+      "wins": 72,
+      "winrate": 44.72
+    },
+    "skye": {
+      "total_games": 104,
+      "wins": 49,
+      "winrate": 47.12
+    },
+    "neon": {
+      "total_games": 56,
+      "wins": 26,
+      "winrate": 46.43
+    },
+    "yoru": {
+      "total_games": 12,
+      "wins": 5,
+      "winrate": 41.67
+    },
+    "kayo": {
+      "total_games": 173,
+      "wins": 89,
+      "winrate": 51.45
+    },
+    "jett": {
+      "total_games": 143,
+      "wins": 76,
+      "winrate": 53.15
+    },
+    "brimstone": {
+      "total_games": 64,
+      "wins": 36,
+      "winrate": 56.25
+    },
+    "cypher": {
+      "total_games": 31,
+      "wins": 13,
+      "winrate": 41.94
+    },
+    "reyna": {
+      "total_games": 11,
+      "wins": 5,
+      "winrate": 45.45
+    }
+  },
+  "4.10": {
+    "viper": {
+      "total_games": 149,
+      "wins": 82,
+      "winrate": 55.03
+    },
+    "kayo": {
+      "total_games": 137,
+      "wins": 70,
+      "winrate": 51.09
+    },
+    "jett": {
+      "total_games": 138,
+      "wins": 67,
+      "winrate": 48.55
+    },
+    "sova": {
+      "total_games": 190,
+      "wins": 103,
+      "winrate": 54.21
+    },
+    "chamber": {
+      "total_games": 274,
+      "wins": 141,
+      "winrate": 51.46
+    },
+    "neon": {
+      "total_games": 57,
+      "wins": 28,
+      "winrate": 49.12
+    },
+    "cypher": {
+      "total_games": 50,
+      "wins": 20,
+      "winrate": 40.0
+    },
+    "omen": {
+      "total_games": 138,
+      "wins": 65,
+      "winrate": 47.1
+    },
+    "killjoy": {
+      "total_games": 74,
+      "wins": 34,
+      "winrate": 45.95
+    },
+    "skye": {
+      "total_games": 106,
+      "wins": 58,
+      "winrate": 54.72
+    },
+    "breach": {
+      "total_games": 165,
+      "wins": 72,
+      "winrate": 43.64
+    },
+    "raze": {
+      "total_games": 161,
+      "wins": 80,
+      "winrate": 49.69
+    },
+    "sage": {
+      "total_games": 103,
+      "wins": 56,
+      "winrate": 54.37
+    },
+    "fade": {
+      "total_games": 107,
+      "wins": 49,
+      "winrate": 45.79
+    },
+    "astra": {
+      "total_games": 88,
+      "wins": 44,
+      "winrate": 50.0
+    },
+    "brimstone": {
+      "total_games": 85,
+      "wins": 43,
+      "winrate": 50.59
+    },
+    "yoru": {
+      "total_games": 5,
+      "wins": 1,
+      "winrate": 20.0
+    },
+    "reyna": {
+      "total_games": 11,
+      "wins": 6,
+      "winrate": 54.55
+    },
+    "phoenix": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    }
+  },
+  "4.09": {
+    "sova": {
+      "total_games": 168,
+      "wins": 81,
+      "winrate": 48.21
+    },
+    "jett": {
+      "total_games": 134,
+      "wins": 64,
+      "winrate": 47.76
+    },
+    "chamber": {
+      "total_games": 222,
+      "wins": 114,
+      "winrate": 51.35
+    },
+    "kayo": {
+      "total_games": 155,
+      "wins": 75,
+      "winrate": 48.39
+    },
+    "viper": {
+      "total_games": 122,
+      "wins": 64,
+      "winrate": 52.46
+    },
+    "cypher": {
+      "total_games": 46,
+      "wins": 25,
+      "winrate": 54.35
+    },
+    "sage": {
+      "total_games": 78,
+      "wins": 40,
+      "winrate": 51.28
+    },
+    "omen": {
+      "total_games": 142,
+      "wins": 63,
+      "winrate": 44.37
+    },
+    "fade": {
+      "total_games": 98,
+      "wins": 56,
+      "winrate": 57.14
+    },
+    "raze": {
+      "total_games": 128,
+      "wins": 66,
+      "winrate": 51.56
+    },
+    "breach": {
+      "total_games": 125,
+      "wins": 64,
+      "winrate": 51.2
+    },
+    "astra": {
+      "total_games": 73,
+      "wins": 45,
+      "winrate": 61.64
+    },
+    "brimstone": {
+      "total_games": 63,
+      "wins": 30,
+      "winrate": 47.62
+    },
+    "neon": {
+      "total_games": 57,
+      "wins": 27,
+      "winrate": 47.37
+    },
+    "skye": {
+      "total_games": 85,
+      "wins": 37,
+      "winrate": 43.53
+    },
+    "reyna": {
+      "total_games": 15,
+      "wins": 5,
+      "winrate": 33.33
+    },
+    "killjoy": {
+      "total_games": 77,
+      "wins": 35,
+      "winrate": 45.45
+    },
+    "yoru": {
+      "total_games": 21,
+      "wins": 14,
+      "winrate": 66.67
+    }
+  },
+  "4.08": {
+    "sova": {
+      "total_games": 181,
+      "wins": 90,
+      "winrate": 49.72
+    },
+    "killjoy": {
+      "total_games": 50,
+      "wins": 23,
+      "winrate": 46.0
+    },
+    "kayo": {
+      "total_games": 112,
+      "wins": 51,
+      "winrate": 45.54
+    },
+    "omen": {
+      "total_games": 99,
+      "wins": 50,
+      "winrate": 50.51
+    },
+    "jett": {
+      "total_games": 134,
+      "wins": 62,
+      "winrate": 46.27
+    },
+    "chamber": {
+      "total_games": 219,
+      "wins": 109,
+      "winrate": 49.77
+    },
+    "raze": {
+      "total_games": 118,
+      "wins": 64,
+      "winrate": 54.24
+    },
+    "viper": {
+      "total_games": 125,
+      "wins": 61,
+      "winrate": 48.8
+    },
+    "breach": {
+      "total_games": 84,
+      "wins": 40,
+      "winrate": 47.62
+    },
+    "brimstone": {
+      "total_games": 59,
+      "wins": 30,
+      "winrate": 50.85
+    },
+    "sage": {
+      "total_games": 88,
+      "wins": 48,
+      "winrate": 54.55
+    },
+    "skye": {
+      "total_games": 82,
+      "wins": 44,
+      "winrate": 53.66
+    },
+    "fade": {
+      "total_games": 40,
+      "wins": 18,
+      "winrate": 45.0
+    },
+    "neon": {
+      "total_games": 31,
+      "wins": 18,
+      "winrate": 58.06
+    },
+    "astra": {
+      "total_games": 54,
+      "wins": 27,
+      "winrate": 50.0
+    },
+    "reyna": {
+      "total_games": 10,
+      "wins": 5,
+      "winrate": 50.0
+    },
+    "yoru": {
+      "total_games": 9,
+      "wins": 5,
+      "winrate": 55.56
+    },
+    "cypher": {
+      "total_games": 33,
+      "wins": 19,
+      "winrate": 57.58
+    },
+    "phoenix": {
+      "total_games": 1,
+      "wins": 1,
+      "winrate": 100.0
+    }
+  },
+  "4.04": {
+    "reyna": {
+      "total_games": 31,
+      "wins": 11,
+      "winrate": 35.48
+    },
+    "sova": {
+      "total_games": 385,
+      "wins": 185,
+      "winrate": 48.05
+    },
+    "chamber": {
+      "total_games": 260,
+      "wins": 142,
+      "winrate": 54.62
+    },
+    "viper": {
+      "total_games": 252,
+      "wins": 126,
+      "winrate": 50.0
+    },
+    "sage": {
+      "total_games": 194,
+      "wins": 102,
+      "winrate": 52.58
+    },
+    "killjoy": {
+      "total_games": 205,
+      "wins": 94,
+      "winrate": 45.85
+    },
+    "jett": {
+      "total_games": 450,
+      "wins": 220,
+      "winrate": 48.89
+    },
+    "kayo": {
+      "total_games": 212,
+      "wins": 111,
+      "winrate": 52.36
+    },
+    "cypher": {
+      "total_games": 100,
+      "wins": 53,
+      "winrate": 53.0
+    },
+    "raze": {
+      "total_games": 166,
+      "wins": 82,
+      "winrate": 49.4
+    },
+    "omen": {
+      "total_games": 241,
+      "wins": 115,
+      "winrate": 47.72
+    },
+    "astra": {
+      "total_games": 131,
+      "wins": 71,
+      "winrate": 54.2
+    },
+    "skye": {
+      "total_games": 197,
+      "wins": 104,
+      "winrate": 52.79
+    },
+    "brimstone": {
+      "total_games": 127,
+      "wins": 59,
+      "winrate": 46.46
+    },
+    "breach": {
+      "total_games": 183,
+      "wins": 84,
+      "winrate": 45.9
+    },
+    "neon": {
+      "total_games": 28,
+      "wins": 21,
+      "winrate": 75.0
+    },
+    "phoenix": {
+      "total_games": 3,
+      "wins": 2,
+      "winrate": 66.67
+    },
+    "yoru": {
+      "total_games": 5,
+      "wins": 3,
+      "winrate": 60.0
+    }
+  },
+  "3.10": {
+    "breach": {
+      "total_games": 53,
+      "wins": 26,
+      "winrate": 49.06
+    },
+    "cypher": {
+      "total_games": 63,
+      "wins": 29,
+      "winrate": 46.03
+    },
+    "jett": {
+      "total_games": 187,
+      "wins": 92,
+      "winrate": 49.2
+    },
+    "astra": {
+      "total_games": 160,
+      "wins": 76,
+      "winrate": 47.5
+    },
+    "viper": {
+      "total_games": 126,
+      "wins": 65,
+      "winrate": 51.59
+    },
+    "reyna": {
+      "total_games": 52,
+      "wins": 33,
+      "winrate": 63.46
+    },
+    "sova": {
+      "total_games": 163,
+      "wins": 79,
+      "winrate": 48.47
+    },
+    "killjoy": {
+      "total_games": 101,
+      "wins": 50,
+      "winrate": 49.5
+    },
+    "sage": {
+      "total_games": 59,
+      "wins": 30,
+      "winrate": 50.85
+    },
+    "skye": {
+      "total_games": 98,
+      "wins": 47,
+      "winrate": 47.96
+    },
+    "kayo": {
+      "total_games": 35,
+      "wins": 16,
+      "winrate": 45.71
+    },
+    "raze": {
+      "total_games": 46,
+      "wins": 27,
+      "winrate": 58.7
+    },
+    "yoru": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "brimstone": {
+      "total_games": 4,
+      "wins": 3,
+      "winrate": 75.0
+    },
+    "omen": {
+      "total_games": 2,
+      "wins": 2,
+      "winrate": 100.0
+    }
+  },
+  "3.06": {
+    "reyna": {
+      "total_games": 6,
+      "wins": 3,
+      "winrate": 50.0
+    },
+    "viper": {
+      "total_games": 20,
+      "wins": 10,
+      "winrate": 50.0
+    },
+    "sova": {
+      "total_games": 30,
+      "wins": 15,
+      "winrate": 50.0
+    },
+    "sage": {
+      "total_games": 13,
+      "wins": 7,
+      "winrate": 53.85
+    },
+    "jett": {
+      "total_games": 29,
+      "wins": 13,
+      "winrate": 44.83
+    },
+    "killjoy": {
+      "total_games": 19,
+      "wins": 11,
+      "winrate": 57.89
+    },
+    "omen": {
+      "total_games": 2,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "cypher": {
+      "total_games": 10,
+      "wins": 4,
+      "winrate": 40.0
+    },
+    "astra": {
+      "total_games": 29,
+      "wins": 16,
+      "winrate": 55.17
+    },
+    "raze": {
+      "total_games": 13,
+      "wins": 7,
+      "winrate": 53.85
+    },
+    "kayo": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "skye": {
+      "total_games": 17,
+      "wins": 8,
+      "winrate": 47.06
+    },
+    "breach": {
+      "total_games": 9,
+      "wins": 5,
+      "winrate": 55.56
+    },
+    "brimstone": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    }
+  },
+  "3.07": {
+    "astra": {
+      "total_games": 75,
+      "wins": 37,
+      "winrate": 49.33
+    },
+    "raze": {
+      "total_games": 36,
+      "wins": 20,
+      "winrate": 55.56
+    },
+    "jett": {
+      "total_games": 103,
+      "wins": 48,
+      "winrate": 46.6
+    },
+    "sova": {
+      "total_games": 98,
+      "wins": 49,
+      "winrate": 50.0
+    },
+    "cypher": {
+      "total_games": 45,
+      "wins": 18,
+      "winrate": 40.0
+    },
+    "killjoy": {
+      "total_games": 47,
+      "wins": 28,
+      "winrate": 59.57
+    },
+    "sage": {
+      "total_games": 35,
+      "wins": 19,
+      "winrate": 54.29
+    },
+    "omen": {
+      "total_games": 17,
+      "wins": 8,
+      "winrate": 47.06
+    },
+    "kayo": {
+      "total_games": 13,
+      "wins": 9,
+      "winrate": 69.23
+    },
+    "skye": {
+      "total_games": 56,
+      "wins": 21,
+      "winrate": 37.5
+    },
+    "viper": {
+      "total_games": 57,
+      "wins": 30,
+      "winrate": 52.63
+    },
+    "reyna": {
+      "total_games": 36,
+      "wins": 20,
+      "winrate": 55.56
+    },
+    "phoenix": {
+      "total_games": 3,
+      "wins": 2,
+      "winrate": 66.67
+    },
+    "brimstone": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    },
+    "breach": {
+      "total_games": 17,
+      "wins": 10,
+      "winrate": 58.82
+    }
+  },
+  "3.02": {
+    "sova": {
+      "total_games": 143,
+      "wins": 73,
+      "winrate": 51.05
+    },
+    "skye": {
+      "total_games": 90,
+      "wins": 47,
+      "winrate": 52.22
+    },
+    "jett": {
+      "total_games": 161,
+      "wins": 80,
+      "winrate": 49.69
+    },
+    "astra": {
+      "total_games": 89,
+      "wins": 44,
+      "winrate": 49.44
+    },
+    "killjoy": {
+      "total_games": 111,
+      "wins": 57,
+      "winrate": 51.35
+    },
+    "viper": {
+      "total_games": 72,
+      "wins": 33,
+      "winrate": 45.83
+    },
+    "reyna": {
+      "total_games": 25,
+      "wins": 12,
+      "winrate": 48.0
+    },
+    "omen": {
+      "total_games": 45,
+      "wins": 22,
+      "winrate": 48.89
+    },
+    "raze": {
+      "total_games": 54,
+      "wins": 28,
+      "winrate": 51.85
+    },
+    "breach": {
+      "total_games": 33,
+      "wins": 23,
+      "winrate": 69.7
+    },
+    "cypher": {
+      "total_games": 46,
+      "wins": 24,
+      "winrate": 52.17
+    },
+    "sage": {
+      "total_games": 68,
+      "wins": 33,
+      "winrate": 48.53
+    },
+    "brimstone": {
+      "total_games": 22,
+      "wins": 12,
+      "winrate": 54.55
+    },
+    "kayo": {
+      "total_games": 17,
+      "wins": 3,
+      "winrate": 17.65
+    },
+    "phoenix": {
+      "total_games": 12,
+      "wins": 3,
+      "winrate": 25.0
+    },
+    "yoru": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    }
+  },
+  "3.01": {
+    "viper": {
+      "total_games": 86,
+      "wins": 44,
+      "winrate": 51.16
+    },
+    "jett": {
+      "total_games": 113,
+      "wins": 57,
+      "winrate": 50.44
+    },
+    "reyna": {
+      "total_games": 30,
+      "wins": 15,
+      "winrate": 50.0
+    },
+    "sova": {
+      "total_games": 107,
+      "wins": 54,
+      "winrate": 50.47
+    },
+    "sage": {
+      "total_games": 76,
+      "wins": 41,
+      "winrate": 53.95
+    },
+    "breach": {
+      "total_games": 26,
+      "wins": 13,
+      "winrate": 50.0
+    },
+    "killjoy": {
+      "total_games": 53,
+      "wins": 23,
+      "winrate": 43.4
+    },
+    "astra": {
+      "total_games": 41,
+      "wins": 21,
+      "winrate": 51.22
+    },
+    "kayo": {
+      "total_games": 22,
+      "wins": 7,
+      "winrate": 31.82
+    },
+    "omen": {
+      "total_games": 49,
+      "wins": 20,
+      "winrate": 40.82
+    },
+    "raze": {
+      "total_games": 45,
+      "wins": 26,
+      "winrate": 57.78
+    },
+    "cypher": {
+      "total_games": 41,
+      "wins": 22,
+      "winrate": 53.66
+    },
+    "skye": {
+      "total_games": 78,
+      "wins": 38,
+      "winrate": 48.72
+    },
+    "brimstone": {
+      "total_games": 22,
+      "wins": 13,
+      "winrate": 59.09
+    },
+    "phoenix": {
+      "total_games": 1,
+      "wins": 1,
+      "winrate": 100.0
+    }
+  },
+  "3.0": {
+    "brimstone": {
+      "total_games": 35,
+      "wins": 18,
+      "winrate": 51.43
+    },
+    "sova": {
+      "total_games": 258,
+      "wins": 126,
+      "winrate": 48.84
+    },
+    "viper": {
+      "total_games": 166,
+      "wins": 83,
+      "winrate": 50.0
+    },
+    "skye": {
+      "total_games": 137,
+      "wins": 77,
+      "winrate": 56.2
+    },
+    "raze": {
+      "total_games": 86,
+      "wins": 43,
+      "winrate": 50.0
+    },
+    "sage": {
+      "total_games": 160,
+      "wins": 80,
+      "winrate": 50.0
+    },
+    "jett": {
+      "total_games": 250,
+      "wins": 124,
+      "winrate": 49.6
+    },
+    "cypher": {
+      "total_games": 123,
+      "wins": 63,
+      "winrate": 51.22
+    },
+    "omen": {
+      "total_games": 112,
+      "wins": 50,
+      "winrate": 44.64
+    },
+    "reyna": {
+      "total_games": 69,
+      "wins": 32,
+      "winrate": 46.38
+    },
+    "astra": {
+      "total_games": 111,
+      "wins": 61,
+      "winrate": 54.95
+    },
+    "phoenix": {
+      "total_games": 38,
+      "wins": 18,
+      "winrate": 47.37
+    },
+    "killjoy": {
+      "total_games": 119,
+      "wins": 61,
+      "winrate": 51.26
+    },
+    "breach": {
+      "total_games": 48,
+      "wins": 23,
+      "winrate": 47.92
+    },
+    "yoru": {
+      "total_games": 3,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "kayo": {
+      "total_games": 5,
+      "wins": 1,
+      "winrate": 20.0
+    }
+  },
+  "4.07": {
+    "skye": {
+      "total_games": 142,
+      "wins": 75,
+      "winrate": 52.82
+    },
+    "raze": {
+      "total_games": 145,
+      "wins": 70,
+      "winrate": 48.28
+    },
+    "sage": {
+      "total_games": 135,
+      "wins": 76,
+      "winrate": 56.3
+    },
+    "cypher": {
+      "total_games": 40,
+      "wins": 20,
+      "winrate": 50.0
+    },
+    "omen": {
+      "total_games": 163,
+      "wins": 85,
+      "winrate": 52.15
+    },
+    "breach": {
+      "total_games": 129,
+      "wins": 59,
+      "winrate": 45.74
+    },
+    "kayo": {
+      "total_games": 168,
+      "wins": 87,
+      "winrate": 51.79
+    },
+    "sova": {
+      "total_games": 253,
+      "wins": 128,
+      "winrate": 50.59
+    },
+    "viper": {
+      "total_games": 183,
+      "wins": 92,
+      "winrate": 50.27
+    },
+    "chamber": {
+      "total_games": 264,
+      "wins": 128,
+      "winrate": 48.48
+    },
+    "jett": {
+      "total_games": 256,
+      "wins": 123,
+      "winrate": 48.05
+    },
+    "astra": {
+      "total_games": 71,
+      "wins": 37,
+      "winrate": 52.11
+    },
+    "reyna": {
+      "total_games": 6,
+      "wins": 2,
+      "winrate": 33.33
+    },
+    "brimstone": {
+      "total_games": 81,
+      "wins": 33,
+      "winrate": 40.74
+    },
+    "killjoy": {
+      "total_games": 81,
+      "wins": 41,
+      "winrate": 50.62
+    },
+    "neon": {
+      "total_games": 21,
+      "wins": 13,
+      "winrate": 61.9
+    },
+    "yoru": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    }
+  },
+  "7.06": {
+    "cypher": {
+      "total_games": 7,
+      "wins": 2,
+      "winrate": 28.57
+    },
+    "raze": {
+      "total_games": 42,
+      "wins": 21,
+      "winrate": 50.0
+    },
+    "jett": {
+      "total_games": 33,
+      "wins": 17,
+      "winrate": 51.52
+    },
+    "astra": {
+      "total_games": 10,
+      "wins": 2,
+      "winrate": 20.0
+    },
+    "skye": {
+      "total_games": 37,
+      "wins": 18,
+      "winrate": 48.65
+    },
+    "omen": {
+      "total_games": 46,
+      "wins": 27,
+      "winrate": 58.7
+    },
+    "viper": {
+      "total_games": 42,
+      "wins": 22,
+      "winrate": 52.38
+    },
+    "kayo": {
+      "total_games": 17,
+      "wins": 10,
+      "winrate": 58.82
+    },
+    "killjoy": {
+      "total_games": 31,
+      "wins": 17,
+      "winrate": 54.84
+    },
+    "sova": {
+      "total_games": 17,
+      "wins": 7,
+      "winrate": 41.18
+    },
+    "yoru": {
+      "total_games": 9,
+      "wins": 4,
+      "winrate": 44.44
+    },
+    "fade": {
+      "total_games": 13,
+      "wins": 6,
+      "winrate": 46.15
+    },
+    "chamber": {
+      "total_games": 10,
+      "wins": 3,
+      "winrate": 30.0
+    },
+    "harbor": {
+      "total_games": 7,
+      "wins": 3,
+      "winrate": 42.86
+    },
+    "brimstone": {
+      "total_games": 6,
+      "wins": 3,
+      "winrate": 50.0
+    },
+    "reyna": {
+      "total_games": 5,
+      "wins": 3,
+      "winrate": 60.0
+    },
+    "neon": {
+      "total_games": 3,
+      "wins": 2,
+      "winrate": 66.67
+    },
+    "gekko": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "phoenix": {
+      "total_games": 3,
+      "wins": 1,
+      "winrate": 33.33
+    },
+    "breach": {
+      "total_games": 6,
+      "wins": 4,
+      "winrate": 66.67
+    },
+    "sage": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    }
+  },
+  "5.0": {
+    "kayo": {
+      "total_games": 130,
+      "wins": 65,
+      "winrate": 50.0
+    },
+    "viper": {
+      "total_games": 121,
+      "wins": 65,
+      "winrate": 53.72
+    },
+    "sova": {
+      "total_games": 73,
+      "wins": 38,
+      "winrate": 52.05
+    },
+    "chamber": {
+      "total_games": 210,
+      "wins": 104,
+      "winrate": 49.52
+    },
+    "jett": {
+      "total_games": 56,
+      "wins": 25,
+      "winrate": 44.64
+    },
+    "neon": {
+      "total_games": 42,
+      "wins": 21,
+      "winrate": 50.0
+    },
+    "cypher": {
+      "total_games": 9,
+      "wins": 7,
+      "winrate": 77.78
+    },
+    "killjoy": {
+      "total_games": 35,
+      "wins": 17,
+      "winrate": 48.57
+    },
+    "breach": {
+      "total_games": 84,
+      "wins": 35,
+      "winrate": 41.67
+    },
+    "omen": {
+      "total_games": 71,
+      "wins": 41,
+      "winrate": 57.75
+    },
+    "astra": {
+      "total_games": 75,
+      "wins": 32,
+      "winrate": 42.67
+    },
+    "skye": {
+      "total_games": 62,
+      "wins": 30,
+      "winrate": 48.39
+    },
+    "fade": {
+      "total_games": 120,
+      "wins": 63,
+      "winrate": 52.5
+    },
+    "sage": {
+      "total_games": 57,
+      "wins": 29,
+      "winrate": 50.88
+    },
+    "raze": {
+      "total_games": 129,
+      "wins": 67,
+      "winrate": 51.94
+    },
+    "reyna": {
+      "total_games": 5,
+      "wins": 2,
+      "winrate": 40.0
+    },
+    "brimstone": {
+      "total_games": 62,
+      "wins": 29,
+      "winrate": 46.77
+    },
+    "yoru": {
+      "total_games": 9,
+      "wins": 5,
+      "winrate": 55.56
+    }
+  },
+  "5.03": {
+    "fade": {
+      "total_games": 21,
+      "wins": 10,
+      "winrate": 47.62
+    },
+    "chamber": {
+      "total_games": 32,
+      "wins": 17,
+      "winrate": 53.12
+    },
+    "breach": {
+      "total_games": 13,
+      "wins": 8,
+      "winrate": 61.54
+    },
+    "raze": {
+      "total_games": 17,
+      "wins": 8,
+      "winrate": 47.06
+    },
+    "astra": {
+      "total_games": 8,
+      "wins": 4,
+      "winrate": 50.0
+    },
+    "sova": {
+      "total_games": 11,
+      "wins": 6,
+      "winrate": 54.55
+    },
+    "sage": {
+      "total_games": 12,
+      "wins": 4,
+      "winrate": 33.33
+    },
+    "brimstone": {
+      "total_games": 15,
+      "wins": 8,
+      "winrate": 53.33
+    },
+    "skye": {
+      "total_games": 7,
+      "wins": 3,
+      "winrate": 42.86
+    },
+    "viper": {
+      "total_games": 13,
+      "wins": 7,
+      "winrate": 53.85
+    },
+    "kayo": {
+      "total_games": 11,
+      "wins": 5,
+      "winrate": 45.45
+    },
+    "killjoy": {
+      "total_games": 5,
+      "wins": 2,
+      "winrate": 40.0
+    },
+    "phoenix": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "omen": {
+      "total_games": 8,
+      "wins": 3,
+      "winrate": 37.5
+    },
+    "jett": {
+      "total_games": 7,
+      "wins": 4,
+      "winrate": 57.14
+    },
+    "neon": {
+      "total_games": 6,
+      "wins": 4,
+      "winrate": 66.67
+    },
+    "cypher": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "reyna": {
+      "total_games": 2,
+      "wins": 2,
+      "winrate": 100.0
+    }
+  },
+  "4.0": {
+    "jett": {
+      "total_games": 53,
+      "wins": 24,
+      "winrate": 45.28
+    },
+    "sage": {
+      "total_games": 18,
+      "wins": 8,
+      "winrate": 44.44
+    },
+    "viper": {
+      "total_games": 41,
+      "wins": 21,
+      "winrate": 51.22
+    },
+    "kayo": {
+      "total_games": 21,
+      "wins": 15,
+      "winrate": 71.43
+    },
+    "sova": {
+      "total_games": 59,
+      "wins": 31,
+      "winrate": 52.54
+    },
+    "reyna": {
+      "total_games": 21,
+      "wins": 12,
+      "winrate": 57.14
+    },
+    "astra": {
+      "total_games": 39,
+      "wins": 20,
+      "winrate": 51.28
+    },
+    "killjoy": {
+      "total_games": 35,
+      "wins": 16,
+      "winrate": 45.71
+    },
+    "breach": {
+      "total_games": 12,
+      "wins": 6,
+      "winrate": 50.0
+    },
+    "skye": {
+      "total_games": 27,
+      "wins": 10,
+      "winrate": 37.04
+    },
+    "raze": {
+      "total_games": 20,
+      "wins": 12,
+      "winrate": 60.0
+    },
+    "cypher": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "brimstone": {
+      "total_games": 7,
+      "wins": 5,
+      "winrate": 71.43
+    },
+    "chamber": {
+      "total_games": 18,
+      "wins": 8,
+      "winrate": 44.44
+    },
+    "yoru": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "omen": {
+      "total_games": 4,
+      "wins": 0,
+      "winrate": 0.0
+    }
+  },
+  "5.05": {
+    "chamber": {
+      "total_games": 12,
+      "wins": 8,
+      "winrate": 66.67
+    },
+    "sova": {
+      "total_games": 9,
+      "wins": 4,
+      "winrate": 44.44
+    },
+    "cypher": {
+      "total_games": 3,
+      "wins": 2,
+      "winrate": 66.67
+    },
+    "neon": {
+      "total_games": 3,
+      "wins": 3,
+      "winrate": 100.0
+    },
+    "astra": {
+      "total_games": 4,
+      "wins": 3,
+      "winrate": 75.0
+    },
+    "raze": {
+      "total_games": 6,
+      "wins": 3,
+      "winrate": 50.0
+    },
+    "fade": {
+      "total_games": 7,
+      "wins": 4,
+      "winrate": 57.14
+    },
+    "skye": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "brimstone": {
+      "total_games": 3,
+      "wins": 1,
+      "winrate": 33.33
+    },
+    "omen": {
+      "total_games": 7,
+      "wins": 3,
+      "winrate": 42.86
+    },
+    "killjoy": {
+      "total_games": 3,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "breach": {
+      "total_games": 7,
+      "wins": 4,
+      "winrate": 57.14
+    },
+    "jett": {
+      "total_games": 8,
+      "wins": 3,
+      "winrate": 37.5
+    },
+    "kayo": {
+      "total_games": 7,
+      "wins": 3,
+      "winrate": 42.86
+    },
+    "sage": {
+      "total_games": 2,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "phoenix": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "viper": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    }
+  },
+  "5.09": {
+    "fade": {
+      "total_games": 29,
+      "wins": 14,
+      "winrate": 48.28
+    },
+    "killjoy": {
+      "total_games": 21,
+      "wins": 9,
+      "winrate": 42.86
+    },
+    "astra": {
+      "total_games": 14,
+      "wins": 6,
+      "winrate": 42.86
+    },
+    "breach": {
+      "total_games": 14,
+      "wins": 6,
+      "winrate": 42.86
+    },
+    "jett": {
+      "total_games": 34,
+      "wins": 16,
+      "winrate": 47.06
+    },
+    "reyna": {
+      "total_games": 6,
+      "wins": 4,
+      "winrate": 66.67
+    },
+    "cypher": {
+      "total_games": 5,
+      "wins": 4,
+      "winrate": 80.0
+    },
+    "sova": {
+      "total_games": 28,
+      "wins": 14,
+      "winrate": 50.0
+    },
+    "omen": {
+      "total_games": 24,
+      "wins": 13,
+      "winrate": 54.17
+    },
+    "kayo": {
+      "total_games": 33,
+      "wins": 17,
+      "winrate": 51.52
+    },
+    "viper": {
+      "total_games": 26,
+      "wins": 14,
+      "winrate": 53.85
+    },
+    "chamber": {
+      "total_games": 34,
+      "wins": 17,
+      "winrate": 50.0
+    },
+    "sage": {
+      "total_games": 13,
+      "wins": 7,
+      "winrate": 53.85
+    },
+    "raze": {
+      "total_games": 12,
+      "wins": 5,
+      "winrate": 41.67
+    },
+    "brimstone": {
+      "total_games": 6,
+      "wins": 3,
+      "winrate": 50.0
+    },
+    "neon": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "phoenix": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "skye": {
+      "total_games": 5,
+      "wins": 3,
+      "winrate": 60.0
+    },
+    "yoru": {
+      "total_games": 1,
+      "wins": 1,
+      "winrate": 100.0
+    }
+  },
+  "5.06": {
+    "phoenix": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    },
+    "chamber": {
+      "total_games": 30,
+      "wins": 14,
+      "winrate": 46.67
+    },
+    "omen": {
+      "total_games": 9,
+      "wins": 5,
+      "winrate": 55.56
+    },
+    "kayo": {
+      "total_games": 15,
+      "wins": 9,
+      "winrate": 60.0
+    },
+    "fade": {
+      "total_games": 20,
+      "wins": 11,
+      "winrate": 55.0
+    },
+    "jett": {
+      "total_games": 14,
+      "wins": 8,
+      "winrate": 57.14
+    },
+    "killjoy": {
+      "total_games": 3,
+      "wins": 2,
+      "winrate": 66.67
+    },
+    "sova": {
+      "total_games": 12,
+      "wins": 6,
+      "winrate": 50.0
+    },
+    "breach": {
+      "total_games": 12,
+      "wins": 5,
+      "winrate": 41.67
+    },
+    "astra": {
+      "total_games": 9,
+      "wins": 5,
+      "winrate": 55.56
+    },
+    "raze": {
+      "total_games": 16,
+      "wins": 9,
+      "winrate": 56.25
+    },
+    "brimstone": {
+      "total_games": 14,
+      "wins": 6,
+      "winrate": 42.86
+    },
+    "skye": {
+      "total_games": 14,
+      "wins": 5,
+      "winrate": 35.71
+    },
+    "viper": {
+      "total_games": 12,
+      "wins": 5,
+      "winrate": 41.67
+    },
+    "neon": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "sage": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    },
+    "cypher": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    }
+  },
+  "6.03": {
+    "omen": {
+      "total_games": 59,
+      "wins": 29,
+      "winrate": 49.15
+    },
+    "killjoy": {
+      "total_games": 117,
+      "wins": 58,
+      "winrate": 49.57
+    },
+    "sova": {
+      "total_games": 78,
+      "wins": 42,
+      "winrate": 53.85
+    },
+    "jett": {
+      "total_games": 108,
+      "wins": 56,
+      "winrate": 51.85
+    },
+    "kayo": {
+      "total_games": 49,
+      "wins": 25,
+      "winrate": 51.02
+    },
+    "astra": {
+      "total_games": 57,
+      "wins": 30,
+      "winrate": 52.63
+    },
+    "breach": {
+      "total_games": 57,
+      "wins": 25,
+      "winrate": 43.86
+    },
+    "raze": {
+      "total_games": 43,
+      "wins": 19,
+      "winrate": 44.19
+    },
+    "fade": {
+      "total_games": 20,
+      "wins": 10,
+      "winrate": 50.0
+    },
+    "brimstone": {
+      "total_games": 10,
+      "wins": 4,
+      "winrate": 40.0
+    },
+    "viper": {
+      "total_games": 44,
+      "wins": 22,
+      "winrate": 50.0
+    },
+    "skye": {
+      "total_games": 39,
+      "wins": 19,
+      "winrate": 48.72
+    },
+    "sage": {
+      "total_games": 23,
+      "wins": 15,
+      "winrate": 65.22
+    },
+    "cypher": {
+      "total_games": 22,
+      "wins": 13,
+      "winrate": 59.09
+    },
+    "neon": {
+      "total_games": 7,
+      "wins": 2,
+      "winrate": 28.57
+    },
+    "harbor": {
+      "total_games": 14,
+      "wins": 5,
+      "winrate": 35.71
+    },
+    "chamber": {
+      "total_games": 1,
+      "wins": 1,
+      "winrate": 100.0
+    },
+    "phoenix": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "yoru": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    }
+  },
+  "6.01": {
+    "breach": {
+      "total_games": 56,
+      "wins": 28,
+      "winrate": 50.0
+    },
+    "sova": {
+      "total_games": 73,
+      "wins": 43,
+      "winrate": 58.9
+    },
+    "jett": {
+      "total_games": 78,
+      "wins": 42,
+      "winrate": 53.85
+    },
+    "omen": {
+      "total_games": 55,
+      "wins": 27,
+      "winrate": 49.09
+    },
+    "killjoy": {
+      "total_games": 94,
+      "wins": 49,
+      "winrate": 52.13
+    },
+    "raze": {
+      "total_games": 43,
+      "wins": 21,
+      "winrate": 48.84
+    },
+    "brimstone": {
+      "total_games": 22,
+      "wins": 11,
+      "winrate": 50.0
+    },
+    "neon": {
+      "total_games": 13,
+      "wins": 9,
+      "winrate": 69.23
+    },
+    "cypher": {
+      "total_games": 23,
+      "wins": 9,
+      "winrate": 39.13
+    },
+    "kayo": {
+      "total_games": 41,
+      "wins": 18,
+      "winrate": 43.9
+    },
+    "fade": {
+      "total_games": 33,
+      "wins": 13,
+      "winrate": 39.39
+    },
+    "skye": {
+      "total_games": 21,
+      "wins": 9,
+      "winrate": 42.86
+    },
+    "viper": {
+      "total_games": 48,
+      "wins": 24,
+      "winrate": 50.0
+    },
+    "astra": {
+      "total_games": 33,
+      "wins": 16,
+      "winrate": 48.48
+    },
+    "sage": {
+      "total_games": 30,
+      "wins": 17,
+      "winrate": 56.67
+    },
+    "reyna": {
+      "total_games": 5,
+      "wins": 2,
+      "winrate": 40.0
+    },
+    "yoru": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    },
+    "phoenix": {
+      "total_games": 4,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "chamber": {
+      "total_games": 5,
+      "wins": 1,
+      "winrate": 20.0
+    },
+    "harbor": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    }
+  },
+  "5.12": {
+    "sova": {
+      "total_games": 43,
+      "wins": 21,
+      "winrate": 48.84
+    },
+    "viper": {
+      "total_games": 20,
+      "wins": 11,
+      "winrate": 55.0
+    },
+    "jett": {
+      "total_games": 40,
+      "wins": 23,
+      "winrate": 57.5
+    },
+    "killjoy": {
+      "total_games": 35,
+      "wins": 19,
+      "winrate": 54.29
+    },
+    "sage": {
+      "total_games": 3,
+      "wins": 2,
+      "winrate": 66.67
+    },
+    "kayo": {
+      "total_games": 31,
+      "wins": 15,
+      "winrate": 48.39
+    },
+    "breach": {
+      "total_games": 26,
+      "wins": 14,
+      "winrate": 53.85
+    },
+    "omen": {
+      "total_games": 21,
+      "wins": 9,
+      "winrate": 42.86
+    },
+    "cypher": {
+      "total_games": 19,
+      "wins": 9,
+      "winrate": 47.37
+    },
+    "raze": {
+      "total_games": 11,
+      "wins": 5,
+      "winrate": 45.45
+    },
+    "fade": {
+      "total_games": 16,
+      "wins": 8,
+      "winrate": 50.0
+    },
+    "skye": {
+      "total_games": 4,
+      "wins": 1,
+      "winrate": 25.0
+    },
+    "brimstone": {
+      "total_games": 8,
+      "wins": 3,
+      "winrate": 37.5
+    },
+    "reyna": {
+      "total_games": 11,
+      "wins": 6,
+      "winrate": 54.55
+    },
+    "astra": {
+      "total_games": 19,
+      "wins": 11,
+      "winrate": 57.89
+    },
+    "yoru": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "harbor": {
+      "total_games": 3,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "phoenix": {
+      "total_games": 5,
+      "wins": 2,
+      "winrate": 40.0
+    },
+    "chamber": {
+      "total_games": 3,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "neon": {
+      "total_games": 8,
+      "wins": 4,
+      "winrate": 50.0
+    }
+  },
+  "7.04": {
+    "chamber": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "yoru": {
+      "total_games": 2,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "brimstone": {
+      "total_games": 2,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "reyna": {
+      "total_games": 2,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "skye": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "phoenix": {
+      "total_games": 2,
+      "wins": 2,
+      "winrate": 100.0
+    },
+    "omen": {
+      "total_games": 2,
+      "wins": 2,
+      "winrate": 100.0
+    },
+    "jett": {
+      "total_games": 2,
+      "wins": 2,
+      "winrate": 100.0
+    }
+  },
+  "6.0": {
+    "neon": {
+      "total_games": 8,
+      "wins": 3,
+      "winrate": 37.5
+    },
+    "breach": {
+      "total_games": 15,
+      "wins": 5,
+      "winrate": 33.33
+    },
+    "kayo": {
+      "total_games": 40,
+      "wins": 20,
+      "winrate": 50.0
+    },
+    "brimstone": {
+      "total_games": 8,
+      "wins": 3,
+      "winrate": 37.5
+    },
+    "killjoy": {
+      "total_games": 55,
+      "wins": 27,
+      "winrate": 49.09
+    },
+    "viper": {
+      "total_games": 29,
+      "wins": 16,
+      "winrate": 55.17
+    },
+    "astra": {
+      "total_games": 27,
+      "wins": 13,
+      "winrate": 48.15
+    },
+    "raze": {
+      "total_games": 15,
+      "wins": 7,
+      "winrate": 46.67
+    },
+    "fade": {
+      "total_games": 23,
+      "wins": 11,
+      "winrate": 47.83
+    },
+    "omen": {
+      "total_games": 20,
+      "wins": 11,
+      "winrate": 55.0
+    },
+    "sova": {
+      "total_games": 42,
+      "wins": 22,
+      "winrate": 52.38
+    },
+    "jett": {
+      "total_games": 45,
+      "wins": 23,
+      "winrate": 51.11
+    },
+    "cypher": {
+      "total_games": 9,
+      "wins": 7,
+      "winrate": 77.78
+    },
+    "sage": {
+      "total_games": 16,
+      "wins": 9,
+      "winrate": 56.25
+    },
+    "skye": {
+      "total_games": 7,
+      "wins": 3,
+      "winrate": 42.86
+    },
+    "chamber": {
+      "total_games": 3,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "phoenix": {
+      "total_games": 5,
+      "wins": 3,
+      "winrate": 60.0
+    },
+    "reyna": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    },
+    "harbor": {
+      "total_games": 1,
+      "wins": 1,
+      "winrate": 100.0
+    }
+  },
+  "7.05": {
+    "omen": {
+      "total_games": 15,
+      "wins": 8,
+      "winrate": 53.33
+    },
+    "kayo": {
+      "total_games": 9,
+      "wins": 5,
+      "winrate": 55.56
+    },
+    "killjoy": {
+      "total_games": 12,
+      "wins": 6,
+      "winrate": 50.0
+    },
+    "jett": {
+      "total_games": 10,
+      "wins": 5,
+      "winrate": 50.0
+    },
+    "sova": {
+      "total_games": 10,
+      "wins": 5,
+      "winrate": 50.0
+    },
+    "raze": {
+      "total_games": 11,
+      "wins": 5,
+      "winrate": 45.45
+    },
+    "breach": {
+      "total_games": 6,
+      "wins": 3,
+      "winrate": 50.0
+    },
+    "sage": {
+      "total_games": 3,
+      "wins": 2,
+      "winrate": 66.67
+    },
+    "cypher": {
+      "total_games": 7,
+      "wins": 5,
+      "winrate": 71.43
+    },
+    "skye": {
+      "total_games": 9,
+      "wins": 4,
+      "winrate": 44.44
+    },
+    "viper": {
+      "total_games": 9,
+      "wins": 4,
+      "winrate": 44.44
+    },
+    "fade": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "harbor": {
+      "total_games": 3,
+      "wins": 2,
+      "winrate": 66.67
+    },
+    "brimstone": {
+      "total_games": 3,
+      "wins": 1,
+      "winrate": 33.33
+    },
+    "astra": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "chamber": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    }
+  },
+  "3.12": {
+    "jett": {
+      "total_games": 272,
+      "wins": 135,
+      "winrate": 49.63
+    },
+    "sova": {
+      "total_games": 239,
+      "wins": 122,
+      "winrate": 51.05
+    },
+    "killjoy": {
+      "total_games": 127,
+      "wins": 65,
+      "winrate": 51.18
+    },
+    "astra": {
+      "total_games": 214,
+      "wins": 109,
+      "winrate": 50.93
+    },
+    "reyna": {
+      "total_games": 40,
+      "wins": 16,
+      "winrate": 40.0
+    },
+    "kayo": {
+      "total_games": 86,
+      "wins": 52,
+      "winrate": 60.47
+    },
+    "breach": {
+      "total_games": 80,
+      "wins": 37,
+      "winrate": 46.25
+    },
+    "raze": {
+      "total_games": 91,
+      "wins": 44,
+      "winrate": 48.35
+    },
+    "viper": {
+      "total_games": 170,
+      "wins": 86,
+      "winrate": 50.59
+    },
+    "skye": {
+      "total_games": 117,
+      "wins": 61,
+      "winrate": 52.14
+    },
+    "cypher": {
+      "total_games": 118,
+      "wins": 65,
+      "winrate": 55.08
+    },
+    "brimstone": {
+      "total_games": 11,
+      "wins": 5,
+      "winrate": 45.45
+    },
+    "sage": {
+      "total_games": 115,
+      "wins": 51,
+      "winrate": 44.35
+    },
+    "chamber": {
+      "total_games": 32,
+      "wins": 11,
+      "winrate": 34.38
+    },
+    "omen": {
+      "total_games": 6,
+      "wins": 1,
+      "winrate": 16.67
+    },
+    "phoenix": {
+      "total_games": 2,
+      "wins": 0,
+      "winrate": 0.0
+    }
+  },
+  "3.04": {
+    "viper": {
+      "total_games": 45,
+      "wins": 25,
+      "winrate": 55.56
+    },
+    "sage": {
+      "total_games": 45,
+      "wins": 20,
+      "winrate": 44.44
+    },
+    "skye": {
+      "total_games": 57,
+      "wins": 32,
+      "winrate": 56.14
+    },
+    "brimstone": {
+      "total_games": 6,
+      "wins": 4,
+      "winrate": 66.67
+    },
+    "raze": {
+      "total_games": 28,
+      "wins": 15,
+      "winrate": 53.57
+    },
+    "cypher": {
+      "total_games": 19,
+      "wins": 10,
+      "winrate": 52.63
+    },
+    "omen": {
+      "total_games": 10,
+      "wins": 9,
+      "winrate": 90.0
+    },
+    "kayo": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "astra": {
+      "total_games": 64,
+      "wins": 28,
+      "winrate": 43.75
+    },
+    "sova": {
+      "total_games": 69,
+      "wins": 36,
+      "winrate": 52.17
+    },
+    "killjoy": {
+      "total_games": 56,
+      "wins": 30,
+      "winrate": 53.57
+    },
+    "jett": {
+      "total_games": 85,
+      "wins": 40,
+      "winrate": 47.06
+    },
+    "reyna": {
+      "total_games": 27,
+      "wins": 11,
+      "winrate": 40.74
+    },
+    "breach": {
+      "total_games": 6,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "phoenix": {
+      "total_games": 8,
+      "wins": 3,
+      "winrate": 37.5
+    },
+    "yoru": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    }
+  },
+  "3.03": {
+    "viper": {
+      "total_games": 53,
+      "wins": 26,
+      "winrate": 49.06
+    },
+    "killjoy": {
+      "total_games": 57,
+      "wins": 27,
+      "winrate": 47.37
+    },
+    "jett": {
+      "total_games": 84,
+      "wins": 42,
+      "winrate": 50.0
+    },
+    "sage": {
+      "total_games": 35,
+      "wins": 15,
+      "winrate": 42.86
+    },
+    "sova": {
+      "total_games": 74,
+      "wins": 38,
+      "winrate": 51.35
+    },
+    "skye": {
+      "total_games": 45,
+      "wins": 20,
+      "winrate": 44.44
+    },
+    "omen": {
+      "total_games": 16,
+      "wins": 7,
+      "winrate": 43.75
+    },
+    "reyna": {
+      "total_games": 21,
+      "wins": 11,
+      "winrate": 52.38
+    },
+    "cypher": {
+      "total_games": 26,
+      "wins": 14,
+      "winrate": 53.85
+    },
+    "astra": {
+      "total_games": 36,
+      "wins": 19,
+      "winrate": 52.78
+    },
+    "raze": {
+      "total_games": 24,
+      "wins": 11,
+      "winrate": 45.83
+    },
+    "phoenix": {
+      "total_games": 3,
+      "wins": 2,
+      "winrate": 66.67
+    },
+    "kayo": {
+      "total_games": 3,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "brimstone": {
+      "total_games": 12,
+      "wins": 6,
+      "winrate": 50.0
+    },
+    "breach": {
+      "total_games": 11,
+      "wins": 7,
+      "winrate": 63.64
+    }
+  },
+  "4.03": {
+    "sova": {
+      "total_games": 83,
+      "wins": 43,
+      "winrate": 51.81
+    },
+    "jett": {
+      "total_games": 84,
+      "wins": 44,
+      "winrate": 52.38
+    },
+    "kayo": {
+      "total_games": 38,
+      "wins": 20,
+      "winrate": 52.63
+    },
+    "killjoy": {
+      "total_games": 39,
+      "wins": 20,
+      "winrate": 51.28
+    },
+    "astra": {
+      "total_games": 66,
+      "wins": 34,
+      "winrate": 51.52
+    },
+    "skye": {
+      "total_games": 37,
+      "wins": 17,
+      "winrate": 45.95
+    },
+    "cypher": {
+      "total_games": 14,
+      "wins": 9,
+      "winrate": 64.29
+    },
+    "brimstone": {
+      "total_games": 2,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "raze": {
+      "total_games": 25,
+      "wins": 13,
+      "winrate": 52.0
+    },
+    "viper": {
+      "total_games": 61,
+      "wins": 31,
+      "winrate": 50.82
+    },
+    "sage": {
+      "total_games": 29,
+      "wins": 15,
+      "winrate": 51.72
+    },
+    "chamber": {
+      "total_games": 47,
+      "wins": 21,
+      "winrate": 44.68
+    },
+    "reyna": {
+      "total_games": 9,
+      "wins": 2,
+      "winrate": 22.22
+    },
+    "breach": {
+      "total_games": 16,
+      "wins": 6,
+      "winrate": 37.5
+    },
+    "neon": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "omen": {
+      "total_games": 8,
+      "wins": 4,
+      "winrate": 50.0
+    },
+    "phoenix": {
+      "total_games": 1,
+      "wins": 1,
+      "winrate": 100.0
+    }
+  },
+  "2.09": {
+    "raze": {
+      "total_games": 48,
+      "wins": 23,
+      "winrate": 47.92
+    },
+    "jett": {
+      "total_games": 81,
+      "wins": 38,
+      "winrate": 46.91
+    },
+    "astra": {
+      "total_games": 56,
+      "wins": 27,
+      "winrate": 48.21
+    },
+    "sova": {
+      "total_games": 76,
+      "wins": 39,
+      "winrate": 51.32
+    },
+    "cypher": {
+      "total_games": 20,
+      "wins": 11,
+      "winrate": 55.0
+    },
+    "skye": {
+      "total_games": 40,
+      "wins": 21,
+      "winrate": 52.5
+    },
+    "sage": {
+      "total_games": 58,
+      "wins": 30,
+      "winrate": 51.72
+    },
+    "reyna": {
+      "total_games": 14,
+      "wins": 9,
+      "winrate": 64.29
+    },
+    "viper": {
+      "total_games": 53,
+      "wins": 29,
+      "winrate": 54.72
+    },
+    "omen": {
+      "total_games": 26,
+      "wins": 11,
+      "winrate": 42.31
+    },
+    "phoenix": {
+      "total_games": 16,
+      "wins": 8,
+      "winrate": 50.0
+    },
+    "killjoy": {
+      "total_games": 58,
+      "wins": 26,
+      "winrate": 44.83
+    },
+    "brimstone": {
+      "total_games": 16,
+      "wins": 11,
+      "winrate": 68.75
+    },
+    "breach": {
+      "total_games": 14,
+      "wins": 6,
+      "winrate": 42.86
+    },
+    "yoru": {
+      "total_games": 4,
+      "wins": 1,
+      "winrate": 25.0
+    }
+  },
+  "2.11": {
+    "sova": {
+      "total_games": 25,
+      "wins": 12,
+      "winrate": 48.0
+    },
+    "jett": {
+      "total_games": 28,
+      "wins": 13,
+      "winrate": 46.43
+    },
+    "killjoy": {
+      "total_games": 15,
+      "wins": 7,
+      "winrate": 46.67
+    },
+    "sage": {
+      "total_games": 17,
+      "wins": 10,
+      "winrate": 58.82
+    },
+    "omen": {
+      "total_games": 7,
+      "wins": 4,
+      "winrate": 57.14
+    },
+    "viper": {
+      "total_games": 12,
+      "wins": 6,
+      "winrate": 50.0
+    },
+    "raze": {
+      "total_games": 14,
+      "wins": 7,
+      "winrate": 50.0
+    },
+    "astra": {
+      "total_games": 16,
+      "wins": 8,
+      "winrate": 50.0
+    },
+    "cypher": {
+      "total_games": 9,
+      "wins": 4,
+      "winrate": 44.44
+    },
+    "skye": {
+      "total_games": 8,
+      "wins": 4,
+      "winrate": 50.0
+    },
+    "reyna": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "breach": {
+      "total_games": 1,
+      "wins": 1,
+      "winrate": 100.0
+    },
+    "brimstone": {
+      "total_games": 1,
+      "wins": 1,
+      "winrate": 100.0
+    },
+    "phoenix": {
+      "total_games": 3,
+      "wins": 1,
+      "winrate": 33.33
+    }
+  },
+  "2.07": {
+    "skye": {
+      "total_games": 33,
+      "wins": 18,
+      "winrate": 54.55
+    },
+    "omen": {
+      "total_games": 44,
+      "wins": 19,
+      "winrate": 43.18
+    },
+    "sova": {
+      "total_games": 78,
+      "wins": 38,
+      "winrate": 48.72
+    },
+    "viper": {
+      "total_games": 37,
+      "wins": 22,
+      "winrate": 59.46
+    },
+    "raze": {
+      "total_games": 31,
+      "wins": 15,
+      "winrate": 48.39
+    },
+    "killjoy": {
+      "total_games": 56,
+      "wins": 31,
+      "winrate": 55.36
+    },
+    "jett": {
+      "total_games": 65,
+      "wins": 31,
+      "winrate": 47.69
+    },
+    "reyna": {
+      "total_games": 18,
+      "wins": 7,
+      "winrate": 38.89
+    },
+    "sage": {
+      "total_games": 32,
+      "wins": 13,
+      "winrate": 40.62
+    },
+    "astra": {
+      "total_games": 31,
+      "wins": 17,
+      "winrate": 54.84
+    },
+    "brimstone": {
+      "total_games": 12,
+      "wins": 8,
+      "winrate": 66.67
+    },
+    "breach": {
+      "total_games": 7,
+      "wins": 3,
+      "winrate": 42.86
+    },
+    "phoenix": {
+      "total_games": 30,
+      "wins": 18,
+      "winrate": 60.0
+    },
+    "cypher": {
+      "total_games": 16,
+      "wins": 5,
+      "winrate": 31.25
+    }
+  },
+  "2.05": {
+    "jett": {
+      "total_games": 158,
+      "wins": 82,
+      "winrate": 51.9
+    },
+    "sova": {
+      "total_games": 174,
+      "wins": 88,
+      "winrate": 50.57
+    },
+    "sage": {
+      "total_games": 116,
+      "wins": 62,
+      "winrate": 53.45
+    },
+    "omen": {
+      "total_games": 134,
+      "wins": 66,
+      "winrate": 49.25
+    },
+    "reyna": {
+      "total_games": 40,
+      "wins": 16,
+      "winrate": 40.0
+    },
+    "killjoy": {
+      "total_games": 97,
+      "wins": 50,
+      "winrate": 51.55
+    },
+    "raze": {
+      "total_games": 84,
+      "wins": 43,
+      "winrate": 51.19
+    },
+    "breach": {
+      "total_games": 38,
+      "wins": 12,
+      "winrate": 31.58
+    },
+    "cypher": {
+      "total_games": 74,
+      "wins": 35,
+      "winrate": 47.3
+    },
+    "skye": {
+      "total_games": 30,
+      "wins": 15,
+      "winrate": 50.0
+    },
+    "viper": {
+      "total_games": 31,
+      "wins": 16,
+      "winrate": 51.61
+    },
+    "astra": {
+      "total_games": 39,
+      "wins": 19,
+      "winrate": 48.72
+    },
+    "phoenix": {
+      "total_games": 31,
+      "wins": 18,
+      "winrate": 58.06
+    },
+    "brimstone": {
+      "total_games": 14,
+      "wins": 8,
+      "winrate": 57.14
+    }
+  },
+  "4.01": {
+    "astra": {
+      "total_games": 148,
+      "wins": 74,
+      "winrate": 50.0
+    },
+    "viper": {
+      "total_games": 133,
+      "wins": 69,
+      "winrate": 51.88
+    },
+    "sova": {
+      "total_games": 165,
+      "wins": 84,
+      "winrate": 50.91
+    },
+    "skye": {
+      "total_games": 99,
+      "wins": 48,
+      "winrate": 48.48
+    },
+    "raze": {
+      "total_games": 69,
+      "wins": 33,
+      "winrate": 47.83
+    },
+    "chamber": {
+      "total_games": 94,
+      "wins": 49,
+      "winrate": 52.13
+    },
+    "jett": {
+      "total_games": 131,
+      "wins": 62,
+      "winrate": 47.33
+    },
+    "killjoy": {
+      "total_games": 56,
+      "wins": 29,
+      "winrate": 51.79
+    },
+    "cypher": {
+      "total_games": 24,
+      "wins": 10,
+      "winrate": 41.67
+    },
+    "kayo": {
+      "total_games": 44,
+      "wins": 25,
+      "winrate": 56.82
+    },
+    "sage": {
+      "total_games": 46,
+      "wins": 21,
+      "winrate": 45.65
+    },
+    "reyna": {
+      "total_games": 34,
+      "wins": 19,
+      "winrate": 55.88
+    },
+    "neon": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "breach": {
+      "total_games": 17,
+      "wins": 5,
+      "winrate": 29.41
+    },
+    "omen": {
+      "total_games": 4,
+      "wins": 4,
+      "winrate": 100.0
+    },
+    "brimstone": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    },
+    "phoenix": {
+      "total_games": 2,
+      "wins": 2,
+      "winrate": 100.0
+    },
+    "yoru": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    }
+  },
+  "3.09": {
+    "sova": {
+      "total_games": 111,
+      "wins": 54,
+      "winrate": 48.65
+    },
+    "astra": {
+      "total_games": 113,
+      "wins": 58,
+      "winrate": 51.33
+    },
+    "jett": {
+      "total_games": 131,
+      "wins": 67,
+      "winrate": 51.15
+    },
+    "cypher": {
+      "total_games": 54,
+      "wins": 25,
+      "winrate": 46.3
+    },
+    "skye": {
+      "total_games": 77,
+      "wins": 41,
+      "winrate": 53.25
+    },
+    "killjoy": {
+      "total_games": 51,
+      "wins": 23,
+      "winrate": 45.1
+    },
+    "sage": {
+      "total_games": 49,
+      "wins": 25,
+      "winrate": 51.02
+    },
+    "viper": {
+      "total_games": 91,
+      "wins": 46,
+      "winrate": 50.55
+    },
+    "reyna": {
+      "total_games": 32,
+      "wins": 18,
+      "winrate": 56.25
+    },
+    "kayo": {
+      "total_games": 13,
+      "wins": 4,
+      "winrate": 30.77
+    },
+    "raze": {
+      "total_games": 33,
+      "wins": 17,
+      "winrate": 51.52
+    },
+    "breach": {
+      "total_games": 26,
+      "wins": 13,
+      "winrate": 50.0
+    },
+    "omen": {
+      "total_games": 5,
+      "wins": 1,
+      "winrate": 20.0
+    },
+    "brimstone": {
+      "total_games": 3,
+      "wins": 2,
+      "winrate": 66.67
+    },
+    "yoru": {
+      "total_games": 1,
+      "wins": 1,
+      "winrate": 100.0
+    }
+  },
+  "3.08": {
+    "jett": {
+      "total_games": 72,
+      "wins": 35,
+      "winrate": 48.61
+    },
+    "skye": {
+      "total_games": 32,
+      "wins": 17,
+      "winrate": 53.12
+    },
+    "sova": {
+      "total_games": 70,
+      "wins": 36,
+      "winrate": 51.43
+    },
+    "astra": {
+      "total_games": 62,
+      "wins": 33,
+      "winrate": 53.23
+    },
+    "cypher": {
+      "total_games": 34,
+      "wins": 18,
+      "winrate": 52.94
+    },
+    "killjoy": {
+      "total_games": 25,
+      "wins": 12,
+      "winrate": 48.0
+    },
+    "viper": {
+      "total_games": 45,
+      "wins": 24,
+      "winrate": 53.33
+    },
+    "sage": {
+      "total_games": 36,
+      "wins": 17,
+      "winrate": 47.22
+    },
+    "raze": {
+      "total_games": 19,
+      "wins": 9,
+      "winrate": 47.37
+    },
+    "reyna": {
+      "total_games": 22,
+      "wins": 11,
+      "winrate": 50.0
+    },
+    "phoenix": {
+      "total_games": 8,
+      "wins": 3,
+      "winrate": 37.5
+    },
+    "omen": {
+      "total_games": 6,
+      "wins": 1,
+      "winrate": 16.67
+    },
+    "yoru": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "brimstone": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    },
+    "kayo": {
+      "total_games": 7,
+      "wins": 3,
+      "winrate": 42.86
+    },
+    "breach": {
+      "total_games": 19,
+      "wins": 10,
+      "winrate": 52.63
+    }
+  },
+  "4.05": {
+    "viper": {
+      "total_games": 11,
+      "wins": 5,
+      "winrate": 45.45
+    },
+    "jett": {
+      "total_games": 20,
+      "wins": 9,
+      "winrate": 45.0
+    },
+    "reyna": {
+      "total_games": 1,
+      "wins": 1,
+      "winrate": 100.0
+    },
+    "sage": {
+      "total_games": 12,
+      "wins": 6,
+      "winrate": 50.0
+    },
+    "sova": {
+      "total_games": 18,
+      "wins": 9,
+      "winrate": 50.0
+    },
+    "killjoy": {
+      "total_games": 3,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "omen": {
+      "total_games": 11,
+      "wins": 5,
+      "winrate": 45.45
+    },
+    "cypher": {
+      "total_games": 8,
+      "wins": 5,
+      "winrate": 62.5
+    },
+    "kayo": {
+      "total_games": 8,
+      "wins": 5,
+      "winrate": 62.5
+    },
+    "breach": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "raze": {
+      "total_games": 5,
+      "wins": 3,
+      "winrate": 60.0
+    },
+    "chamber": {
+      "total_games": 9,
+      "wins": 5,
+      "winrate": 55.56
+    },
+    "skye": {
+      "total_games": 5,
+      "wins": 2,
+      "winrate": 40.0
+    },
+    "brimstone": {
+      "total_games": 5,
+      "wins": 3,
+      "winrate": 60.0
+    }
+  },
+  "3.05": {
+    "astra": {
+      "total_games": 8,
+      "wins": 4,
+      "winrate": 50.0
+    },
+    "phoenix": {
+      "total_games": 1,
+      "wins": 1,
+      "winrate": 100.0
+    },
+    "killjoy": {
+      "total_games": 5,
+      "wins": 2,
+      "winrate": 40.0
+    },
+    "jett": {
+      "total_games": 15,
+      "wins": 8,
+      "winrate": 53.33
+    },
+    "sova": {
+      "total_games": 18,
+      "wins": 9,
+      "winrate": 50.0
+    },
+    "reyna": {
+      "total_games": 7,
+      "wins": 2,
+      "winrate": 28.57
+    },
+    "raze": {
+      "total_games": 2,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "cypher": {
+      "total_games": 8,
+      "wins": 5,
+      "winrate": 62.5
+    },
+    "sage": {
+      "total_games": 8,
+      "wins": 5,
+      "winrate": 62.5
+    },
+    "omen": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "viper": {
+      "total_games": 7,
+      "wins": 4,
+      "winrate": 57.14
+    },
+    "skye": {
+      "total_games": 6,
+      "wins": 3,
+      "winrate": 50.0
+    },
+    "breach": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    }
+  },
+  "6.04": {
+    "kayo": {
+      "total_games": 10,
+      "wins": 6,
+      "winrate": 60.0
+    },
+    "astra": {
+      "total_games": 10,
+      "wins": 6,
+      "winrate": 60.0
+    },
+    "breach": {
+      "total_games": 5,
+      "wins": 2,
+      "winrate": 40.0
+    },
+    "jett": {
+      "total_games": 15,
+      "wins": 7,
+      "winrate": 46.67
+    },
+    "fade": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    },
+    "sova": {
+      "total_games": 12,
+      "wins": 6,
+      "winrate": 50.0
+    },
+    "killjoy": {
+      "total_games": 13,
+      "wins": 7,
+      "winrate": 53.85
+    },
+    "cypher": {
+      "total_games": 5,
+      "wins": 3,
+      "winrate": 60.0
+    },
+    "brimstone": {
+      "total_games": 2,
+      "wins": 1,
+      "winrate": 50.0
+    },
+    "neon": {
+      "total_games": 1,
+      "wins": 0,
+      "winrate": 0.0
+    },
+    "sage": {
+      "total_games": 7,
+      "wins": 4,
+      "winrate": 57.14
+    },
+    "viper": {
+      "total_games": 6,
+      "wins": 2,
+      "winrate": 33.33
+    },
+    "skye": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "raze": {
+      "total_games": 4,
+      "wins": 2,
+      "winrate": 50.0
+    },
+    "omen": {
+      "total_games": 4,
+      "wins": 1,
+      "winrate": 25.0
+    }
+  }
+}
